@@ -1,0 +1,1016 @@
+Student_ID,Gender,Age,Study_Hours_Per_Week,Attendance_Percentage,Previous_Exam_Score,Assignments_Completed_Pct,Sleep_Hours,Internet_Access,Parental_Education,Extracurricular,Tutoring,Final_Score,Performance
+S1681,Male,15,12.9,85.5,82.5,78.1,5.1,Yes,High School,Yes,Yes,57.5,Average
+S1024,Female,19,,88.5,86.4,56.4,6.9,Yes,Bachelor,Yes,No,81.2,High
+S1621,Male,15,8.1,85.7,50.0,44.3,6.8,No,High School,Yes,No,29.5,Low
+S1099,Male,17,7.6,93.6,65.8,60.2,4.5,Yes,Bachelor,Yes,No,46.9,Low
+S1284,Male,16,23.1,81.0,61.3,67.2,8.7,Yes,Master,Yes,No,69.0,Average
+S1691,Female,19,18.5,79.8,48.4,63.8,7.0,Yes,High School,Yes,No,56.8,Average
+S1744,Female,16,1.0,,72.0,64.9,3.5,Yes,Master,Yes,Yes,55.3,Average
+S1308,Male,17,14.1,45.2,45.0,68.0,4.8,Yes,High School,Yes,No,38.8,Low
+S1769,Male,15,5.8,70.7,54.7,60.9,7.5,Yes,High School,No,Yes,39.6,Low
+S1435,Male,15,12.8,85.4,51.3,62.7,5.4,Yes,Bachelor,No,No,55.2,Average
+S1926,Female,16,1.1,74.0,46.2,60.0,8.4,Yes,Bachelor,No,No,31.5,Low
+S1163,male,17,,83.2,72.0,93.3,5.9,Yes,Bachelor,Yes,No,64.8,Average
+S1232,Male,19,7.7,72.2,55.7,80.7,6.7,Yes,High School,Yes,Yes,59.0,Average
+S1942,Female,19,16.6,88.5,39.6,73.3,8.6,Yes,Bachelor,No,No,56.5,Average
+S1918,Male,17,15.6,85.6,62.8,68.7,8.9,No,Bachelor,Yes,No,56.8,Average
+S1168,Male,19,21.7,,45.1,64.0,6.6,Yes,Bachelor,Yes,No,61.8,Average
+S1957,Female,17,13.7,73.9,62.2,49.5,5.5,Yes,High School,No,Yes,50.0,Low
+S1659,Male,16,1.0,98.2,62.7,65.3,7.5,Yes,High School,Yes,No,45.0,Low
+S1365,MALE,15,19.3,85.1,33.7,100.0,7.4,Yes,Bachelor,No,No,58.0,Average
+S1256,Female,16,18.7,72.5,34.3,53.5,7.5,Yes,Master,No,No,39.8,Low
+S1153,Male,19,16.7,88.7,67.0,63.4,7.2,Yes,Bachelor,No,Yes,69.9,Average
+S1916,Female,16,14.6,95.7,80.5,70.0,6.9,Yes,,No,Yes,81.6,High
+S1685,Female,17,17.2,97.4,74.8,82.7,7.9,Yes,High School,Yes,Yes,79.0,High
+S1725,Male,18,5.7,81.2,32.9,79.8,6.7,Yes,High School,No,Yes,37.7,Low
+S1989,Female,19,19.4,88.4,50.6,76.4,5.9,Yes,High School,Yes,No,44.1,Low
+S1297,Male,18,13.7,87.7,54.6,62.9,5.8,Yes,Bachelor,No,No,42.6,Low
+S1094,Female,16,22.7,,65.0,94.1,8.0,Yes,Bachelor,Yes,No,77.4,High
+S1878,Female,18,1.8,69.5,27.0,90.6,7.9,Yes,Master,Yes,No,35.8,Low
+S1060,Female,18,14.2,50.8,41.6,86.4,6.8,Yes,Bachelor,No,No,41.1,Low
+S1009,Male,17,20.6,,50.2,80.6,7.2,Yes,High School,Yes,No,60.0,Average
+S1755,Male,16,10.0,61.2,76.0,74.1,7.0,Yes,High School,Yes,Yes,69.2,Average
+S1785,Female,16,10.1,62.6,59.3,84.1,8.3,No,Bachelor,Yes,No,34.3,Low
+S1736,Female,17,1.0,96.2,50.3,79.8,7.0,Yes,High School,No,No,44.6,Low
+S1025,Female,15,24.8,84.8,61.1,69.5,6.3,No,High School,No,No,66.1,Average
+S1850,Female,15,19.6,91.4,64.8,72.3,6.7,Yes,High School,Yes,No,59.7,Average
+S1357,Female,15,15.4,53.4,75.7,58.2,7.0,No,Master,Yes,No,48.3,Low
+S1674,male,18,,80.9,87.0,64.0,4.8,Yes,PhD,Yes,No,70.1,High
+S1228,Female,15,25.8,59.7,77.9,59.8,8.1,Yes,Master,No,No,71.5,High
+S1500,Male,17,5.8,97.9,33.6,69.3,8.8,Yes,Bachelor,No,No,47.8,Low
+S1498,Female,17,,,93.0,84.7,7.6,Yes,Master,Yes,No,72.0,High
+S1577,Female,18,22.2,81.5,58.0,85.2,6.9,Yes,High School,Yes,Yes,65.9,Average
+S1875,Female,15,19.3,89.0,66.4,47.4,7.0,Yes,PhD,Yes,No,60.2,Average
+S1138,Male,18,18.2,75.9,62.7,89.0,6.0,Yes,Bachelor,Yes,No,62.5,Average
+S1171,female,18,13.5,85.8,70.1,56.8,6.3,Yes,High School,Yes,No,58.5,Average
+S1793,Female,16,6.9,73.7,55.3,78.2,9.9,Yes,PhD,No,No,47.2,Low
+S1917,Female,17,2.0,82.0,50.7,82.9,7.9,Yes,PhD,Yes,No,39.3,Low
+S1013,Female,16,,84.0,60.7,80.9,7.7,Yes,High School,No,No,62.3,Average
+S1423,Female,18,10.0,58.5,45.9,78.3,8.9,Yes,High School,No,No,46.0,Low
+S1682,Female,15,9.8,100.0,62.8,70.7,7.1,Yes,Bachelor,No,Yes,59.3,Average
+S1216,Male,17,17.8,70.0,70.5,100.0,10.0,,Bachelor,No,Yes,73.9,High
+S1734,Male,19,11.0,68.7,48.6,66.2,8.4,Yes,High School,No,No,49.9,Low
+S1108,Male,19,15.4,66.6,49.1,60.2,7.0,Yes,High School,No,Yes,53.3,Average
+S1547,Female,19,3.9,83.5,67.4,76.6,6.5,Yes,High School,No,No,41.6,Low
+S1113,Male,16,15.5,86.9,55.0,94.9,5.8,Yes,Bachelor,Yes,Yes,54.4,Average
+S1964,Female,19,11.6,92.4,73.3,58.6,6.2,Yes,Bachelor,Yes,No,66.4,Average
+S1437,MALE,18,10.5,71.6,39.3,73.5,7.3,Yes,High School,No,No,36.2,Low
+S1326,Male,18,1.2,76.9,70.3,98.1,9.9,Yes,High School,No,No,56.5,Average
+S1708,Male,16,4.3,86.4,91.6,98.8,,No,Bachelor,No,No,55.4,Average
+S1445,Female,15,4.6,61.6,63.9,88.4,6.4,No,High School,No,No,44.2,Low
+S1565,male,17,19.9,,81.6,100.0,6.9,Yes,High School,No,No,67.8,Average
+S1802,Female,17,30.9,91.2,73.3,100.0,7.2,Yes,,Yes,Yes,91.4,High
+S1345,Male,19,,98.4,59.4,75.8,7.6,Yes,Bachelor,No,Yes,61.6,Average
+S1447,Female,19,22.2,95.3,45.4,72.0,8.6,No,Master,Yes,No,59.1,Average
+S1110,Male,18,30.9,82.6,36.1,66.3,7.1,Yes,High School,No,No,67.7,Average
+S1125,Female,19,18.8,83.6,76.1,61.2,5.4,Yes,High School,No,No,61.5,Average
+S1870,Male,15,12.4,84.8,59.9,56.7,6.1,No,Master,No,Yes,47.8,Low
+S1034,Female,15,,74.0,,91.1,6.6,Yes,Bachelor,No,No,57.3,Average
+S1053,Male,19,16.0,82.2,43.6,78.5,6.1,No,PhD,Yes,No,56.4,Average
+S1765,Female,19,12.7,100.0,100.0,100.0,8.6,Yes,Bachelor,No,No,81.8,High
+S1948,Female,15,1.0,100.0,58.3,76.8,7.4,Yes,Master,No,No,55.3,Average
+S1596,Female,18,7.1,100.0,59.5,70.9,5.4,Yes,Bachelor,Yes,No,49.7,Low
+S1237,Male,15,10.1,95.0,68.4,100.0,5.0,Yes,High School,Yes,No,55.6,Average
+S1324,Female,19,11.4,120.0,66.2,46.7,5.9,Yes,Bachelor,No,No,52.3,Average
+S1839,Female,17,16.9,100.0,49.5,100.0,5.8,Yes,Bachelor,Yes,Yes,70.1,High
+S1384,Male,16,17.4,89.5,68.3,54.3,7.4,Yes,Bachelor,Yes,Yes,67.0,Average
+S1318,Female,17,15.5,86.4,77.1,100.0,7.5,Yes,Master,No,No,76.9,High
+S1652,Male,15,9.4,100.0,58.0,85.6,7.6,Yes,High School,No,Yes,66.4,Average
+S1879,Female,15,14.2,75.2,60.6,91.2,8.2,Yes,Bachelor,No,Yes,68.1,Average
+S1299,Male,15,9.0,89.3,20.8,60.6,5.2,Yes,Master,No,No,34.2,Low
+S1739,Female,16,11.3,86.8,59.3,82.6,8.2,No,Bachelor,Yes,Yes,54.2,Average
+S1431,Female,15,17.5,74.3,34.1,56.7,4.9,,Bachelor,Yes,No,43.4,Low
+S1417,Male,17,3.5,90.2,60.9,88.0,8.8,Yes,High School,No,No,52.3,Average
+S1649,Female,19,31.5,81.9,79.9,24.4,6.9,Yes,High School,No,No,67.2,Average
+S1667,Female,18,15.7,95.7,59.4,80.6,,Yes,High School,No,No,56.9,Average
+S1943,MALE,15,9.3,76.2,82.3,61.0,8.9,Yes,PhD,No,No,70.4,High
+S1724,Female,17,4.6,69.6,60.7,80.3,6.6,Yes,High School,Yes,Yes,46.1,Low
+S1712,Female,19,12.3,,63.2,55.3,8.0,Yes,High School,No,No,45.6,Low
+S1999,Female,16,15.4,98.9,47.1,67.6,6.0,No,High School,No,No,60.1,Average
+S1731,Male,19,3.6,86.7,,94.4,6.3,Yes,High School,Yes,Yes,44.9,Low
+S1717,Male,16,10.2,64.2,46.2,63.3,5.8,Yes,,Yes,No,36.7,Low
+S1204,Male,18,2.6,69.1,72.3,85.9,6.9,Yes,High School,Yes,No,53.3,Average
+S1571,Male,16,8.4,89.4,74.9,55.1,7.7,Yes,,No,No,61.2,Average
+S1924,Male,16,9.3,87.1,40.8,48.6,9.0,Yes,Master,Yes,No,42.7,Low
+S1242,Male,19,15.8,76.8,53.8,68.8,5.4,Yes,Bachelor,Yes,No,47.1,Low
+S1982,Female,15,26.0,96.0,61.4,90.2,10.0,Yes,PhD,Yes,No,82.9,High
+S1170,Male,18,14.2,92.2,78.0,78.6,7.6,Yes,High School,No,No,62.7,Average
+S1578,Female,15,12.6,76.2,52.3,75.4,9.0,Yes,High School,No,Yes,58.5,Average
+S1970,Male,19,7.0,99.1,69.0,44.9,7.9,Yes,,Yes,Yes,59.2,Average
+S1965,Female,18,8.8,96.1,67.3,100.0,6.7,Yes,High School,No,No,55.6,Average
+S1938,Male,19,7.0,82.5,98.7,97.3,6.7,Yes,Bachelor,Yes,No,62.1,Average
+S1205,Male,19,13.3,78.4,76.6,76.3,6.5,Yes,Master,No,No,63.3,Average
+S1509,Male,18,26.6,57.6,29.9,79.6,5.9,Yes,High School,No,Yes,53.8,Average
+S1164,Male,17,12.4,100.0,52.0,61.2,7.0,Yes,Master,Yes,Yes,63.8,Average
+S1262,Male,17,17.4,85.3,40.2,91.3,6.6,Yes,Master,Yes,No,62.9,Average
+S1026,Male,15,21.9,93.6,97.9,62.6,6.2,Yes,High School,Yes,No,78.3,High
+S1057,Male,18,1.4,66.0,,59.0,,Yes,Bachelor,Yes,Yes,39.3,Low
+S1046,Male,16,,81.9,63.8,100.0,9.0,Yes,PhD,Yes,Yes,63.4,Average
+S1277,Female,18,20.3,87.9,69.3,79.0,8.3,No,High School,Yes,Yes,75.7,High
+S1986,Female,19,10.1,51.8,55.9,42.2,7.5,Yes,Bachelor,Yes,No,47.6,Low
+S1905,Female,16,10.3,69.1,54.6,50.7,7.2,Yes,Master,No,No,37.2,Low
+S1098,Female,15,13.6,79.9,62.1,82.5,7.4,Yes,Bachelor,No,No,57.6,Average
+S1592,Male,16,13.1,99.9,49.6,52.4,5.4,Yes,Bachelor,Yes,Yes,57.5,Average
+S1720,Male,15,15.5,79.1,68.4,48.0,8.6,Yes,Bachelor,No,Yes,64.0,Average
+S1650,Male,15,3.3,,51.5,57.0,6.9,Yes,PhD,Yes,Yes,49.8,Low
+S1729,Female,15,11.2,87.9,51.5,87.9,7.3,,Master,Yes,No,63.6,Average
+S1146,Male,17,12.6,84.4,73.7,84.8,8.0,Yes,Master,Yes,No,72.0,High
+S1791,Male,19,7.8,91.0,68.0,57.2,7.4,Yes,PhD,No,No,62.2,Average
+S1043,Male,16,6.6,66.8,97.4,81.5,7.9,Yes,Master,No,No,71.7,High
+S1695,Male,18,13.4,77.8,55.6,85.2,6.7,Yes,Master,Yes,No,57.0,Average
+S1663,FEMALE,17,6.7,83.1,72.9,43.3,4.6,Yes,Bachelor,No,No,39.8,Low
+S1063,Female,18,21.1,97.7,60.5,53.0,8.4,Yes,High School,Yes,No,62.0,Average
+S1951,Male,18,12.1,69.8,65.3,80.1,7.5,Yes,Bachelor,Yes,No,51.5,Average
+S1630,Female,17,15.4,85.4,53.4,80.9,6.1,Yes,Bachelor,No,No,63.2,Average
+S1336,Female,18,120.0,76.8,76.6,64.3,8.4,Yes,High School,No,No,65.9,Average
+S1038,Male,17,16.0,95.5,55.1,69.5,5.1,Yes,Bachelor,Yes,Yes,53.9,Average
+S1467,Female,16,15.4,79.1,42.8,100.0,5.9,No,High School,No,Yes,49.5,Low
+S1557,Female,18,11.5,100.0,48.2,93.7,,,Bachelor,No,No,54.5,Average
+S1360,Female,15,4.5,99.6,63.0,83.5,6.0,Yes,Master,No,Yes,61.2,Average
+S1564,Female,17,15.9,88.5,59.2,80.2,7.7,Yes,Bachelor,No,Yes,57.6,Average
+S1222,Female,19,13.2,88.6,41.6,100.0,5.7,Yes,Bachelor,No,No,48.9,Low
+S1929,Female,19,4.7,93.7,41.5,86.1,7.7,Yes,High School,Yes,Yes,45.9,Low
+S1563,Male,19,17.3,95.8,85.4,91.4,6.1,Yes,Bachelor,Yes,No,84.2,High
+S1868,Male,15,14.5,80.7,66.2,61.8,4.6,Yes,Bachelor,No,Yes,52.8,Average
+S1355,Female,17,13.9,95.7,64.5,48.1,6.2,Yes,High School,Yes,Yes,64.7,Average
+S1788,Female,17,17.8,67.6,54.5,64.0,7.3,No,High School,Yes,No,45.1,Low
+S1305,Male,18,11.8,89.6,59.3,82.1,6.3,Yes,High School,No,No,56.6,Average
+S1140,Female,19,9.2,110.0,64.0,98.0,6.5,Yes,Bachelor,Yes,No,46.2,Low
+S1457,Female,17,15.1,83.2,100.0,56.9,7.9,Yes,Master,No,Yes,74.6,High
+S1971,Male,19,9.9,77.2,63.0,87.6,7.3,Yes,,Yes,Yes,62.5,Average
+S1553,Male,18,6.4,79.4,51.1,56.0,7.8,Yes,High School,Yes,Yes,44.4,Low
+S1840,Male,17,14.0,59.0,64.4,64.1,6.8,No,Bachelor,Yes,No,42.5,Low
+S1810,Male,16,15.3,76.4,68.9,51.5,7.2,Yes,High School,No,No,48.9,Low
+S1838,Male,16,2.5,83.3,22.6,51.1,6.5,No,Master,Yes,No,28.3,Low
+S1061,Female,18,14.0,84.5,49.4,72.0,,Yes,Bachelor,No,Yes,51.1,Average
+S1894,Female,15,7.5,89.6,72.7,85.7,8.4,Yes,Bachelor,No,Yes,70.8,High
+S1913,Female,18,18.3,85.7,54.7,65.3,8.4,Yes,High School,No,Yes,54.1,Average
+S1511,Female,16,11.7,91.1,79.1,88.6,,Yes,High School,Yes,No,69.7,Average
+S1921,Female,17,4.6,77.2,58.1,71.9,8.1,Yes,Bachelor,Yes,No,50.6,Average
+S1591,Female,16,18.9,99.2,70.7,89.2,6.3,No,Bachelor,Yes,No,69.2,Average
+S1801,Male,17,8.5,91.9,75.9,48.0,6.9,Yes,Bachelor,No,No,55.3,Average
+S1602,Female,19,4.5,87.6,74.8,83.0,7.2,Yes,High School,No,No,54.5,Average
+S1813,Male,17,18.9,100.0,67.6,68.7,6.7,Yes,Master,Yes,Yes,72.1,High
+S1253,Male,18,13.7,83.1,83.4,100.0,8.1,No,High School,No,No,65.9,Average
+S1330,Female,17,10.0,73.0,61.1,63.1,6.9,No,Master,Yes,No,46.9,Low
+S1368,Male,19,25.2,83.0,57.8,59.6,5.7,Yes,Master,No,No,67.1,Average
+S1109,Female,15,21.9,81.6,61.9,28.0,7.5,Yes,High School,Yes,No,59.6,Average
+S1789,Male,18,24.3,89.7,59.0,78.0,6.0,Yes,High School,Yes,Yes,69.3,Average
+S1319,Female,16,6.0,90.4,41.6,62.1,,Yes,Master,Yes,No,39.4,Low
+S1757,Male,18,20.8,75.0,60.5,79.4,7.2,Yes,Bachelor,Yes,Yes,63.5,Average
+S1625,Male,19,13.0,87.6,89.0,79.3,8.1,Yes,Bachelor,Yes,Yes,72.6,High
+S1148,Female,18,14.5,78.9,73.2,64.0,7.7,Yes,High School,No,No,57.4,Average
+S1686,Male,17,11.7,72.1,72.8,66.9,7.7,Yes,Master,No,Yes,49.7,Low
+S1609,Female,15,14.2,,67.1,58.8,7.5,Yes,High School,No,No,58.7,Average
+S1259,Female,19,18.4,83.8,48.3,82.2,7.1,No,High School,Yes,No,54.6,Average
+S1534,Female,19,10.3,85.0,81.8,94.5,4.3,Yes,High School,Yes,No,63.2,Average
+S1732,Female,18,15.2,71.7,43.6,75.1,4.8,Yes,Bachelor,No,No,45.0,Low
+S1499,Male,19,,76.7,,74.8,8.0,Yes,Master,Yes,No,53.3,Average
+S1929,Female,19,4.7,93.7,41.5,86.1,7.7,Yes,High School,Yes,Yes,45.9,Low
+S1128,Female,17,21.4,91.4,45.0,43.2,6.7,,Master,Yes,No,66.6,Average
+S1660,Male,18,23.5,99.6,48.1,89.2,3.5,Yes,High School,No,No,63.1,Average
+S1586,Female,19,11.8,57.0,36.4,81.5,6.2,Yes,Master,Yes,No,52.7,Average
+S1903,Female,16,19.2,59.9,62.3,53.6,7.2,Yes,High School,No,No,54.4,Average
+S1186,Male,15,10.6,69.1,60.0,59.9,8.6,Yes,High School,Yes,No,41.8,Low
+S1487,Female,15,22.8,77.1,83.9,85.6,6.1,Yes,Bachelor,Yes,No,83.0,High
+S1570,Female,15,3.9,62.5,57.0,80.4,4.3,No,Bachelor,No,Yes,40.7,Low
+S1466,Male,18,4.2,83.2,,81.8,8.2,Yes,High School,Yes,No,47.2,Low
+S1485,Male,19,13.4,88.5,91.1,50.8,9.1,Yes,High School,No,Yes,70.1,High
+S1594,Male,18,14.8,82.6,63.7,61.8,10.0,Yes,Bachelor,Yes,Yes,68.1,Average
+S1749,male,18,10.5,83.4,73.5,90.6,7.0,Yes,Bachelor,Yes,Yes,63.8,Average
+S1585,Female,16,10.5,,77.5,62.6,7.7,Yes,High School,Yes,No,57.4,Average
+S1471,Female,18,6.5,93.9,57.7,49.8,7.4,Yes,High School,Yes,Yes,50.7,Average
+S1480,Male,15,23.1,76.5,76.7,75.3,,Yes,Master,Yes,Yes,82.4,High
+S1134,Female,18,17.7,61.4,54.2,78.1,8.9,Yes,PhD,Yes,No,59.3,Average
+S1610,MALE,18,20.2,70.4,64.8,31.1,6.4,Yes,Master,Yes,No,63.5,Average
+S1818,Female,15,21.3,83.1,43.8,47.0,9.1,No,Bachelor,Yes,No,56.6,Average
+S1600,Female,16,15.0,87.3,44.1,78.2,5.5,No,Master,Yes,No,49.1,Low
+S1159,Female,16,24.6,,61.4,93.2,7.6,Yes,Master,Yes,Yes,80.5,High
+S1408,Female,15,16.2,52.7,52.9,35.4,8.1,Yes,High School,Yes,Yes,51.2,Average
+S1367,Male,17,16.5,76.1,62.8,85.4,8.3,Yes,Bachelor,Yes,No,50.1,Average
+S1409,Male,16,17.3,88.1,71.4,47.8,7.0,No,High School,No,No,60.8,Average
+S1048,Female,18,7.9,83.9,53.5,73.0,6.5,No,High School,Yes,No,41.3,Low
+S1074,Female,17,19.8,89.9,60.2,72.3,6.0,Yes,Bachelor,No,No,68.3,Average
+S1244,Female,19,11.1,,61.1,80.4,7.9,Yes,High School,No,No,53.9,Average
+S1947,Male,19,21.1,86.3,28.4,96.5,7.6,Yes,Bachelor,Yes,No,55.5,Average
+S1351,Male,16,5.1,100.0,79.0,57.9,4.7,Yes,High School,No,Yes,57.4,Average
+S1513,Female,16,16.7,100.0,54.5,78.9,7.8,Yes,Bachelor,Yes,No,64.1,Average
+S1285,Female,15,9.2,90.1,40.9,83.7,,Yes,,Yes,No,39.0,Low
+S1675,Female,19,1.0,70.4,60.6,90.9,7.8,Yes,Bachelor,No,Yes,50.0,Low
+S1699,Male,19,15.3,77.2,62.1,98.5,7.4,Yes,High School,No,No,62.4,Average
+S1620,Male,16,19.7,98.9,65.0,100.0,7.9,Yes,Bachelor,Yes,No,85.8,High
+S1503,Female,16,14.7,76.5,38.8,80.4,,No,Bachelor,Yes,Yes,46.9,Low
+S1542,Male,15,14.8,78.3,46.5,85.9,7.5,Yes,High School,Yes,No,55.0,Average
+S1054,Male,15,15.9,72.5,84.5,81.5,,Yes,Bachelor,No,No,66.2,Average
+S1395,Female,17,3.6,77.8,65.2,68.3,9.3,No,PhD,No,No,52.4,Average
+S1097,Female,18,,78.3,57.6,78.3,6.6,Yes,High School,No,Yes,48.6,Low
+S1849,Female,15,18.0,64.5,61.1,100.0,7.3,Yes,High School,Yes,No,58.0,Average
+S1403,Female,16,4.9,68.8,58.2,47.0,7.9,Yes,Bachelor,Yes,Yes,38.4,Low
+S1449,Male,15,27.4,73.1,63.7,97.2,7.7,Yes,Master,Yes,No,74.8,High
+S1294,Female,19,14.6,72.6,45.6,95.1,8.1,Yes,High School,No,No,49.5,Low
+S1127,Female,18,10.1,83.1,89.4,84.9,7.6,Yes,Bachelor,No,No,66.4,Average
+S1852,Female,17,12.4,92.1,57.5,50.2,7.4,Yes,Bachelor,No,No,43.7,Low
+S1611,Male,15,1.0,97.2,70.4,66.4,6.0,Yes,High School,No,No,44.6,Low
+S1418,Male,19,14.6,74.6,68.4,68.2,8.4,Yes,High School,Yes,Yes,58.6,Average
+S1996,Female,17,12.6,73.2,55.2,66.2,6.9,Yes,Master,Yes,No,42.1,Low
+S1377,Female,18,7.8,91.7,40.0,64.9,6.9,Yes,High School,No,No,44.0,Low
+S1523,Female,15,10.3,91.8,43.8,100.0,6.7,Yes,High School,Yes,No,46.0,Low
+S1080,Female,19,17.3,88.0,69.8,64.8,5.7,Yes,High School,No,Yes,61.0,Average
+S1158,Female,16,12.4,84.3,70.3,73.4,8.8,Yes,High School,Yes,No,53.6,Average
+S1482,Male,16,10.4,91.8,61.4,75.1,7.2,Yes,,Yes,No,49.2,Low
+S1426,Female,18,16.8,85.7,46.3,58.4,6.0,Yes,Master,No,Yes,56.2,Average
+S1859,Female,18,19.2,100.0,74.8,66.9,8.2,Yes,Bachelor,No,No,66.6,Average
+S1684,Male,16,21.6,59.2,65.9,92.9,5.3,Yes,Bachelor,No,No,57.6,Average
+S1886,Male,18,18.0,84.9,56.8,43.3,5.3,Yes,Bachelor,Yes,Yes,60.8,Average
+S1671,Female,17,14.0,90.0,65.6,66.5,7.4,Yes,Bachelor,No,No,54.3,Average
+S1515,Male,19,14.7,84.6,76.6,82.8,7.0,Yes,PhD,Yes,Yes,69.2,Average
+S1808,Male,15,15.8,100.0,48.0,87.9,7.4,Yes,Bachelor,No,No,55.3,Average
+S1632,Male,15,7.6,94.5,82.9,100.0,6.6,Yes,Master,No,No,64.6,Average
+S1696,Female,17,24.8,64.9,66.7,62.5,7.3,No,High School,No,Yes,56.7,Average
+S1350,Female,15,16.3,,52.0,65.2,8.6,Yes,Bachelor,No,Yes,53.4,Average
+S1316,Female,18,18.8,85.3,81.6,66.7,8.1,Yes,High School,Yes,No,65.7,Average
+S1179,Female,15,16.8,70.7,74.5,76.7,8.9,Yes,High School,No,No,55.4,Average
+S1890,Male,15,20.3,83.5,62.2,63.4,7.0,No,Master,Yes,No,66.3,Average
+S1642,Female,17,11.7,66.0,61.4,67.2,7.6,No,Master,No,Yes,53.4,Average
+S1595,Female,15,9.1,97.9,43.2,80.7,7.5,Yes,High School,Yes,No,51.3,Average
+S1122,Female,16,12.3,87.6,76.5,88.6,9.4,Yes,High School,No,No,65.2,Average
+S1908,Male,15,3.0,55.1,68.0,67.0,8.3,Yes,Bachelor,No,No,37.3,Low
+S1472,Male,17,20.7,80.4,90.9,57.7,,Yes,Master,Yes,No,71.6,High
+S1756,Female,16,25.5,84.2,75.7,68.6,10.0,Yes,High School,Yes,No,74.9,High
+S1884,Female,18,15.4,,50.9,71.4,8.3,Yes,High School,No,No,61.1,Average
+S1528,Female,15,7.4,100.0,61.4,50.3,7.4,Yes,High School,Yes,Yes,60.9,Average
+S1454,Female,17,12.7,78.6,60.3,88.8,5.6,Yes,Master,Yes,No,55.5,Average
+S1897,Male,19,15.7,69.0,36.3,59.3,6.3,Yes,Master,No,Yes,53.0,Average
+S1912,Male,15,4.2,86.8,66.4,55.2,8.4,Yes,Bachelor,Yes,No,51.9,Average
+S1419,Female,17,21.5,62.7,61.6,69.9,5.5,Yes,High School,No,No,49.8,Low
+S1172,Female,16,14.0,97.1,91.6,80.5,7.6,Yes,High School,Yes,Yes,76.3,High
+S1896,Female,17,,100.0,86.6,84.2,7.6,Yes,Master,Yes,No,84.1,High
+S1334,Male,17,1.5,,92.9,94.7,6.0,Yes,,Yes,Yes,56.5,Average
+S1397,Male,18,11.7,100.0,69.3,35.6,7.4,Yes,Bachelor,No,No,64.9,Average
+S1271,Male,15,17.7,71.2,75.6,73.6,6.1,,PhD,Yes,No,67.6,Average
+S1220,Male,18,16.2,76.4,51.2,68.4,7.0,No,Master,No,Yes,71.6,High
+S1987,Male,16,15.3,56.5,62.4,95.2,6.8,Yes,Bachelor,No,Yes,52.3,Average
+S1463,Male,15,12.4,63.7,37.9,74.0,,Yes,High School,No,Yes,38.3,Low
+S1015,Female,19,15.4,82.4,59.1,68.6,4.9,Yes,High School,Yes,Yes,57.0,Average
+S1569,Female,19,18.5,71.6,76.1,58.5,5.9,Yes,PhD,Yes,No,60.4,Average
+S1389,Male,19,11.7,83.8,52.7,90.2,4.7,No,Bachelor,Yes,No,51.3,Average
+S1825,Male,19,15.6,72.6,56.4,88.2,6.5,No,,Yes,Yes,60.1,Average
+S1321,Male,16,26.0,93.7,,72.7,8.1,Yes,Bachelor,No,No,68.9,Average
+S1800,Male,15,19.1,100.0,68.7,94.1,9.0,Yes,High School,Yes,No,78.5,High
+S1857,Male,17,8.7,82.1,57.1,88.6,4.7,Yes,High School,No,Yes,46.1,Low
+S1525,Male,15,10.3,91.2,57.8,61.8,6.8,Yes,Bachelor,Yes,No,45.5,Low
+S1507,Male,17,12.9,71.1,42.4,62.8,7.3,Yes,Bachelor,Yes,No,41.0,Low
+S1147,Male,18,14.6,,66.3,60.4,9.0,Yes,Bachelor,No,No,58.2,Average
+S1396,Male,18,19.2,87.8,48.1,64.3,6.6,Yes,Master,Yes,Yes,62.2,Average
+S1656,Female,19,21.1,84.5,77.8,90.2,5.0,Yes,High School,No,No,70.9,High
+S1997,Male,19,9.6,82.3,58.4,63.3,9.3,Yes,Bachelor,No,No,49.2,Low
+S1051,Male,16,12.0,89.0,67.7,69.2,5.6,Yes,Bachelor,Yes,No,57.8,Average
+S1830,Male,16,13.1,78.9,46.2,90.2,7.2,Yes,High School,Yes,Yes,56.9,Average
+S1328,Male,18,19.1,999.0,71.3,83.1,8.8,Yes,Master,Yes,Yes,77.1,High
+S1022,Male,19,11.1,65.7,82.8,58.7,8.0,Yes,Bachelor,No,No,49.4,Low
+S1270,MALE,16,17.4,80.9,73.1,79.1,7.4,No,,No,No,63.0,Average
+S1635,Female,17,21.6,80.9,41.2,74.0,7.8,Yes,Bachelor,No,No,54.9,Average
+S1742,Female,17,13.0,80.6,57.8,84.9,6.0,Yes,Bachelor,No,Yes,55.7,Average
+S1209,Female,19,,87.8,74.9,82.4,9.5,Yes,High School,Yes,No,59.3,Average
+S1289,Male,18,18.6,86.0,52.3,43.7,7.6,Yes,Bachelor,Yes,No,55.5,Average
+S1142,Male,19,19.0,84.5,49.8,75.5,7.7,Yes,Bachelor,No,No,59.2,Average
+S1050,Female,17,12.4,74.1,77.9,92.4,6.4,Yes,Bachelor,No,No,61.2,Average
+S1166,Male,15,22.3,85.9,52.6,73.7,5.4,Yes,Bachelor,No,Yes,64.5,Average
+S1627,Male,17,16.3,62.7,56.4,88.6,7.6,Yes,High School,No,No,56.7,Average
+S1977,FEMALE,16,11.7,80.4,80.6,72.1,8.5,Yes,Bachelor,Yes,Yes,69.6,Average
+S1081,Male,19,8.3,83.2,75.3,71.8,7.0,Yes,Bachelor,Yes,No,47.4,Low
+S1339,Female,17,,,69.3,79.7,7.2,Yes,High School,No,No,49.3,Low
+S1694,Male,15,7.4,73.6,68.0,68.5,7.3,Yes,Bachelor,Yes,No,47.5,Low
+S1911,Male,19,22.6,72.0,42.5,84.4,8.5,Yes,PhD,No,No,63.1,Average
+S1066,Female,19,16.9,77.2,,85.7,6.9,Yes,PhD,No,No,67.4,Average
+S1531,Male,15,18.3,75.4,58.5,79.3,7.9,Yes,High School,Yes,No,60.5,Average
+S1662,Male,15,20.5,81.5,71.5,56.4,9.3,No,PhD,No,No,68.7,Average
+S1508,Male,19,13.0,82.4,71.2,84.2,5.7,Yes,Master,No,No,53.6,Average
+S1540,Female,17,13.7,86.3,68.7,56.9,,No,High School,No,No,40.7,Low
+S1283,Male,19,19.8,69.6,79.2,70.2,6.9,Yes,Master,Yes,No,64.2,Average
+S1881,Female,16,11.7,91.4,75.0,61.7,7.7,No,High School,Yes,No,57.8,Average
+S1518,Male,17,9.1,80.6,78.2,63.5,8.0,Yes,Master,No,No,61.5,Average
+S1064,Male,18,15.2,76.1,70.6,66.7,8.0,No,High School,No,No,49.5,Low
+S1653,Female,17,17.5,73.8,66.9,55.1,10.0,Yes,Bachelor,Yes,No,57.1,Average
+S1264,Female,16,,69.1,84.6,87.7,5.1,Yes,High School,No,Yes,57.0,Average
+S1773,Female,16,11.7,71.8,38.2,70.1,7.9,No,High School,Yes,Yes,47.0,Low
+S1582,Male,17,16.4,88.0,70.5,60.3,5.8,Yes,High School,Yes,Yes,65.9,Average
+S1514,Female,16,17.4,71.4,75.3,74.2,6.4,No,High School,Yes,No,60.7,Average
+S1020,Female,15,16.0,72.8,85.8,82.9,7.3,Yes,Bachelor,No,No,75.1,High
+S1858,Female,17,18.0,,58.2,63.3,7.6,Yes,High School,Yes,No,58.2,Average
+S1775,female,15,17.0,72.0,36.4,73.1,7.7,Yes,High School,Yes,No,45.8,Low
+S1702,Male ,18,9.8,74.1,64.1,60.8,,Yes,High School,No,Yes,54.7,Average
+S1296,FEMALE,16,11.3,79.7,86.2,90.6,7.6,Yes,Bachelor,No,Yes,75.2,High
+S1616,Male,18,9.8,86.1,61.1,98.2,5.7,Yes,High School,Yes,Yes,60.6,Average
+S1968,Female,19,23.6,49.1,65.1,63.0,5.6,No,PhD,Yes,No,49.1,Low
+S1261,Male,19,17.4,100.0,71.2,63.0,7.4,No,Bachelor,Yes,No,68.0,Average
+S1658,Male,19,20.8,80.1,92.3,82.0,8.5,Yes,Bachelor,Yes,Yes,77.6,High
+S1504,Male,17,20.8,76.8,57.5,61.5,6.4,Yes,Master,No,No,70.8,High
+S1981,Female,18,,90.7,61.2,74.5,8.3,Yes,High School,Yes,Yes,59.1,Average
+S1812,Female,18,22.8,,33.7,75.6,6.3,,Bachelor,Yes,Yes,62.4,Average
+S1473,Male,16,10.0,,91.7,81.0,7.0,Yes,Bachelor,No,No,56.3,Average
+S1833,Male,15,13.8,78.9,57.2,75.5,6.4,Yes,Bachelor,No,No,51.4,Average
+S1188,Male,17,,89.2,50.4,64.9,5.9,No,Bachelor,Yes,Yes,51.0,Average
+S1251,Male,17,6.8,150.0,95.5,100.0,8.1,Yes,Master,Yes,No,73.4,High
+S1071,Male,16,18.8,70.1,49.5,62.5,5.0,Yes,Bachelor,Yes,No,48.1,Low
+S1733,Female,19,7.2,92.3,61.2,89.3,6.7,Yes,High School,No,Yes,48.0,Low
+S1375,Male,19,16.6,57.3,87.3,73.5,7.1,Yes,High School,No,No,65.4,Average
+S1344,Female,15,18.8,85.4,71.7,75.7,5.8,Yes,Bachelor,Yes,Yes,65.4,Average
+S1783,Male,19,9.4,86.7,57.8,90.6,,Yes,High School,Yes,No,47.1,Low
+S1361,Female,15,13.3,84.0,51.9,85.2,7.6,No,High School,Yes,Yes,59.1,Average
+S1945,Male,15,17.3,82.0,54.9,81.4,7.7,No,Bachelor,No,Yes,65.3,Average
+S1941,Male,16,11.2,67.6,46.4,65.8,7.9,Yes,Master,No,No,43.9,Low
+S1372,female,17,12.7,92.1,37.6,70.5,8.4,Yes,Master,No,No,49.1,Low
+S1411,Male,17,15.7,82.5,47.5,66.5,6.7,Yes,Bachelor,No,Yes,54.5,Average
+S1562,Male,16,17.7,75.5,60.3,100.0,7.0,Yes,Bachelor,Yes,No,66.0,Average
+S1737,Male,15,15.4,84.5,69.8,88.1,5.8,Yes,High School,No,No,64.9,Average
+S1465,Female,15,8.8,69.8,,84.5,5.7,Yes,Master,Yes,Yes,44.6,Low
+S1818,Female,15,21.3,83.1,43.8,47.0,9.1,No,Bachelor,Yes,No,56.6,Average
+S1452,Male,15,14.2,54.1,80.4,99.4,5.5,No,Bachelor,Yes,No,59.5,Average
+S1683,Female,18,11.0,69.3,83.4,58.0,7.5,Yes,Bachelor,No,Yes,65.2,Average
+S1399,Male,16,7.2,95.4,62.5,83.1,6.3,Yes,Bachelor,Yes,No,51.1,Average
+S1362,Male,16,18.5,,58.1,43.1,7.7,Yes,Bachelor,Yes,Yes,62.5,Average
+S1598,Female,19,10.2,70.7,87.1,77.1,7.6,Yes,Bachelor,Yes,No,53.8,Average
+S1455,Female,15,16.3,100.0,78.0,49.4,6.8,,High School,No,Yes,73.8,High
+S1218,Male,19,5.7,82.2,41.5,81.9,7.3,Yes,Bachelor,Yes,No,47.5,Low
+S1239,Female,15,9.7,76.5,69.2,75.2,5.2,Yes,High School,No,No,47.4,Low
+S1526,Female,16,,72.9,65.6,57.5,6.3,Yes,PhD,Yes,No,46.7,Low
+S1530,Female,15,7.1,55.7,78.2,36.3,7.7,Yes,Master,No,Yes,53.7,Average
+S1192,Female,15,5.5,73.1,51.5,83.2,4.5,Yes,Bachelor,Yes,No,43.3,Low
+S1489,Female,17,27.8,94.0,65.5,63.8,4.8,Yes,PhD,Yes,No,76.2,High
+S1191,Female,16,1.0,90.1,40.1,93.9,6.3,Yes,Master,Yes,Yes,56.8,Average
+S1347,Female,18,17.4,88.0,78.3,74.5,7.0,Yes,,No,No,69.7,Average
+S1672,Female,16,12.8,75.0,41.8,64.1,7.7,Yes,High School,Yes,Yes,43.0,Low
+S1451,Female,15,19.8,89.4,64.0,81.6,6.7,Yes,High School,No,Yes,68.9,Average
+S1132,Male,18,21.5,100.0,70.9,71.0,5.8,Yes,Master,Yes,Yes,82.8,High
+S1713,Female,18,5.0,96.8,52.5,100.0,6.4,Yes,PhD,No,No,57.2,Average
+S1252,Male,15,21.9,64.2,77.0,68.0,7.7,Yes,Master,Yes,No,70.9,High
+S1677,Male,17,5.0,99.4,57.9,74.2,8.4,Yes,Bachelor,Yes,Yes,51.8,Average
+S1770,Female,16,12.9,79.2,85.2,91.2,7.8,Yes,High School,No,Yes,69.8,Average
+S1263,Female,19,10.7,87.8,55.3,95.9,8.0,Yes,Bachelor,No,No,61.8,Average
+S1070,Female,18,10.7,94.0,60.6,74.7,6.1,Yes,Bachelor,No,Yes,65.6,Average
+S1272,Male,19,23.3,78.3,44.7,86.5,6.8,Yes,High School,Yes,No,56.6,Average
+S1976,Male,19,1.0,78.5,72.5,61.4,3.7,Yes,High School,No,No,31.9,Low
+S1327,Male,15,15.5,96.0,53.3,76.3,7.1,No,High School,No,No,52.5,Average
+S1115,Female,17,16.6,,,76.4,7.1,Yes,High School,No,No,59.5,Average
+S1323,Female,19,15.0,87.4,58.7,67.0,7.6,Yes,High School,No,No,62.1,Average
+S1971,Male,19,9.9,77.2,63.0,87.6,7.3,Yes,,Yes,Yes,62.5,Average
+S1669,Male,18,3.4,78.0,58.0,18.4,7.5,Yes,Master,No,Yes,44.5,Low
+S1491,Female,17,,59.9,58.6,64.6,7.7,Yes,Bachelor,Yes,No,60.8,Average
+S1420,Female,19,7.5,90.0,54.5,86.0,6.7,No,High School,Yes,No,43.0,Low
+S1626,Male,17,9.6,90.6,68.7,69.7,7.5,Yes,Bachelor,Yes,Yes,64.8,Average
+S1780,Female,15,15.9,76.4,75.5,52.9,5.2,Yes,Master,No,No,61.9,Average
+S1446,Male,19,21.6,64.7,56.6,61.5,8.1,Yes,High School,No,No,61.6,Average
+S1459,Male,17,18.9,100.0,67.7,78.1,6.2,Yes,Bachelor,No,Yes,76.1,High
+S1877,Female,19,6.1,74.0,63.3,74.2,8.7,Yes,Bachelor,Yes,No,45.1,Low
+S1453,Male,16,12.7,59.7,62.1,95.8,8.1,Yes,High School,Yes,No,54.5,Average
+S1810,Male,16,15.3,76.4,68.9,51.5,7.2,Yes,High School,No,No,48.9,Low
+S1278,Male,15,14.4,74.6,67.1,74.5,7.2,Yes,High School,No,Yes,66.1,Average
+S1792,Female,16,14.4,92.5,35.2,65.2,3.5,Yes,Bachelor,Yes,No,42.8,Low
+S1900,Male,17,18.1,100.0,87.0,69.0,8.6,No,Bachelor,No,No,77.5,High
+S1002,Female,17,14.2,91.6,61.5,56.4,7.4,No,Bachelor,No,No,66.2,Average
+S1229,Male,16,6.6,79.8,42.5,80.1,7.1,No,Bachelor,Yes,Yes,36.9,Low
+S1994,Female,18,10.2,81.7,82.1,86.3,5.3,Yes,High School,No,Yes,61.2,Average
+S1936,Male,16,13.2,,58.5,78.3,7.2,Yes,PhD,Yes,No,67.9,Average
+S1969,Male,15,13.8,60.8,80.0,79.6,5.7,Yes,High School,Yes,No,56.3,Average
+S1864,Female,19,14.3,93.8,94.2,39.9,7.3,Yes,Master,Yes,Yes,75.7,High
+S1199,Female,18,28.7,100.0,48.9,54.5,4.7,Yes,High School,No,Yes,78.4,High
+S1371,Female,16,30.3,94.6,45.8,75.5,7.4,No,Bachelor,No,No,75.2,High
+S1866,Female,15,16.5,70.1,50.4,60.4,6.0,Yes,PhD,No,No,50.5,Average
+S1709,Male,16,19.9,100.0,46.3,81.9,5.0,Yes,,Yes,No,57.5,Average
+S1065,Male,16,11.0,89.9,43.6,85.6,8.5,Yes,High School,No,No,45.8,Low
+S1505,Male,16,13.9,,78.4,100.0,7.6,Yes,,No,Yes,80.7,High
+S1040,Male,18,11.8,68.7,77.9,83.5,7.5,Yes,Bachelor,Yes,No,56.4,Average
+S1748,Male,19,14.8,82.8,49.1,100.0,6.7,Yes,Bachelor,Yes,No,62.2,Average
+S1484,Male,17,17.1,77.2,72.6,70.6,6.0,Yes,Master,No,No,59.3,Average
+S1817,Male,16,18.1,86.6,89.4,76.2,6.9,Yes,High School,Yes,No,77.1,High
+S1778,Male,16,9.4,95.9,56.5,79.5,8.0,Yes,Bachelor,Yes,No,59.4,Average
+S1955,Female,17,2.5,66.7,45.5,78.4,10.0,Yes,High School,Yes,No,31.7,Low
+S1567,Male ,18,26.1,79.9,69.1,74.9,7.4,Yes,Master,No,No,79.4,High
+S1273,Female,18,21.7,96.8,78.7,75.6,8.0,Yes,High School,Yes,No,81.7,High
+S1700,Female,16,14.0,78.7,45.5,89.3,6.8,Yes,Bachelor,No,No,51.6,Average
+S1821,Female,18,15.8,75.1,88.7,100.0,6.1,Yes,High School,Yes,No,77.4,High
+S1493,Female,16,19.8,66.9,63.5,81.9,7.7,Yes,Master,No,Yes,63.8,Average
+S1975,Male,15,6.6,82.3,49.4,70.2,7.8,Yes,PhD,Yes,No,46.9,Low
+S1177,Male,15,14.1,73.4,56.0,100.0,5.0,Yes,Bachelor,Yes,No,54.2,Average
+S1300,Male,18,18.0,79.4,61.4,81.2,4.6,Yes,Bachelor,Yes,No,61.2,Average
+S1037,Female,15,14.0,65.1,58.0,100.0,7.3,No,Bachelor,No,No,47.7,Low
+S1492,Female,15,16.1,59.0,73.6,78.8,8.1,Yes,Bachelor,No,No,61.0,Average
+S1202,Male,19,11.8,74.6,44.2,84.1,9.7,Yes,Bachelor,Yes,No,41.2,Low
+S1236,Female,15,13.4,,78.6,100.0,5.6,Yes,Bachelor,Yes,No,63.1,Average
+S1149,Male,19,20.8,82.8,52.0,95.3,8.0,No,Master,Yes,No,57.6,Average
+S1217,Male,18,13.9,61.1,72.4,74.5,5.7,Yes,High School,No,Yes,55.5,Average
+S1679,Female,17,13.3,100.0,83.3,73.9,5.2,Yes,,No,Yes,69.0,Average
+S1407,Male,19,13.9,77.7,61.9,90.8,7.1,Yes,High School,No,No,57.6,Average
+S1551,Male,19,12.1,88.7,62.2,69.8,8.0,Yes,Bachelor,No,Yes,67.8,Average
+S1613,Male,18,21.1,70.1,71.7,68.6,7.5,Yes,Master,Yes,No,67.3,Average
+S1786,Male,15,10.6,83.4,73.4,49.3,8.4,Yes,High School,Yes,No,51.2,Average
+S1302,Male,18,17.6,76.5,49.7,71.7,6.1,No,Bachelor,Yes,No,48.8,Low
+S1863,Female,16,18.5,71.0,47.5,51.3,5.7,Yes,Master,Yes,No,49.7,Low
+S1928,Male,15,10.5,67.5,38.0,73.4,6.7,No,Master,Yes,No,37.8,Low
+S1673,Male,18,5.2,89.1,38.7,100.0,6.5,Yes,High School,No,No,45.3,Low
+S1935,Female,15,17.6,94.3,39.2,75.5,6.8,Yes,Bachelor,Yes,No,67.6,Average
+S1388,Female,19,16.8,55.8,21.4,61.5,8.0,Yes,High School,Yes,Yes,41.3,Low
+S1422,Female,17,8.5,81.5,54.3,100.0,6.7,Yes,High School,No,No,53.3,Average
+S1387,Female,16,25.5,,56.8,56.5,7.0,Yes,Bachelor,No,No,60.1,Average
+S1777,Male,15,18.0,94.2,100.0,71.6,7.6,Yes,Bachelor,No,Yes,91.0,High
+S1390,Female,16,11.0,85.9,54.1,68.5,6.9,Yes,Bachelor,No,No,48.5,Low
+S1856,Male,16,17.9,69.6,58.8,64.5,6.8,Yes,Master,Yes,No,66.0,Average
+S1352,Male,17,21.1,78.8,73.6,100.0,7.3,Yes,Master,No,Yes,85.5,High
+S1193,Male,18,6.9,75.7,,51.0,6.9,Yes,Bachelor,No,Yes,48.2,Low
+S1235,Female,16,16.5,83.1,57.4,84.7,5.9,No,High School,No,No,51.2,Average
+S1442,Male,19,17.1,75.6,61.4,44.4,7.6,Yes,High School,No,Yes,56.8,Average
+S1920,Female,16,15.2,83.7,55.8,100.0,9.4,Yes,High School,No,No,55.2,Average
+S1055,Male,19,16.5,83.6,68.0,50.6,6.5,Yes,Bachelor,No,No,61.3,Average
+S1767,Male,17,10.9,81.7,63.1,68.0,6.6,Yes,PhD,Yes,Yes,66.7,Average
+S1096,Male,19,20.8,86.6,64.6,63.7,6.7,Yes,High School,Yes,No,63.0,Average
+S1141,Male,16,21.8,72.4,42.6,100.0,6.7,Yes,Master,No,No,60.4,Average
+S1701,Female,15,,81.8,36.0,100.0,6.2,Yes,Bachelor,No,No,53.1,Average
+S1867,Female,18,17.5,87.9,83.5,45.9,6.8,Yes,Master,No,Yes,72.6,High
+S1644,Female,15,12.5,91.9,50.5,100.0,6.2,Yes,Master,Yes,No,61.2,Average
+S1572,Male,18,23.1,89.6,49.8,87.4,5.5,Yes,,No,Yes,71.2,High
+S1120,Male,15,4.7,76.4,48.4,44.1,6.1,Yes,High School,Yes,No,38.5,Low
+S1601,Female,18,18.4,60.3,,86.6,6.9,Yes,Bachelor,No,No,65.0,Average
+S1568,Female,19,8.2,94.5,42.0,81.6,5.6,Yes,PhD,No,No,49.0,Low
+S1062,Male,15,20.3,76.3,66.1,78.5,4.7,Yes,Bachelor,Yes,Yes,68.7,Average
+S1889,Male,17,13.0,81.3,44.8,48.6,7.9,Yes,,No,No,51.7,Average
+S1651,Female,15,15.9,72.7,67.2,100.0,7.0,No,High School,Yes,No,53.3,Average
+S1414,female,17,1.0,,66.9,80.6,6.2,No,High School,No,No,48.4,Low
+S1003,Male,19,12.3,79.2,77.4,46.9,6.8,Yes,Master,Yes,No,59.3,Average
+S1058,Female,17,,64.3,62.2,57.6,3.9,Yes,High School,Yes,No,41.4,Low
+S1223,Male,18,23.2,90.7,40.7,93.1,7.1,Yes,High School,Yes,No,58.6,Average
+S1619,Male,19,1.0,,46.6,84.1,6.3,Yes,Bachelor,Yes,Yes,41.1,Low
+S1101,Male,17,22.7,88.4,93.2,73.3,6.2,Yes,Bachelor,No,Yes,78.4,High
+S1723,Male,18,10.8,66.6,72.8,94.9,9.2,Yes,Bachelor,Yes,No,51.9,Average
+S1221,Male,17,17.7,100.0,56.6,61.9,7.1,Yes,High School,Yes,No,58.9,Average
+S1829,Male,19,12.0,88.7,37.1,81.3,9.7,Yes,High School,Yes,No,45.2,Low
+S1004,Male,15,13.4,,61.2,78.9,5.3,Yes,Master,No,No,52.7,Average
+S1052,Male,17,17.7,,31.3,75.1,8.1,Yes,Master,Yes,No,47.6,Low
+S1017,Male,17,16.2,72.6,42.2,60.5,5.3,Yes,Master,No,Yes,60.9,Average
+S1747,Male,16,7.9,80.3,50.3,64.5,5.2,Yes,Master,Yes,No,52.2,Average
+S1915,Male,17,11.3,91.0,66.9,63.7,6.9,Yes,High School,No,No,55.9,Average
+S1306,Male,16,16.2,92.9,56.3,100.0,7.7,Yes,Master,No,No,62.0,Average
+S1666,Female,18,13.9,82.1,60.1,53.8,8.1,,Master,No,No,55.8,Average
+S1155,Female,17,9.5,,72.3,57.0,6.6,Yes,High School,No,No,58.8,Average
+S1963,Male,19,3.7,,46.2,87.3,7.6,Yes,,No,Yes,45.7,Low
+S1680,Female,19,21.0,75.8,56.1,61.2,6.0,Yes,Bachelor,No,Yes,62.8,Average
+S1643,Male,17,15.7,62.0,71.7,76.8,8.1,Yes,Bachelor,Yes,No,65.2,Average
+S1248,Female,16,5.7,82.2,69.0,99.8,6.1,Yes,,Yes,Yes,54.4,Average
+S1249,Male,19,3.1,82.1,42.2,96.8,6.1,Yes,Bachelor,Yes,Yes,47.4,Low
+S1358,Male,15,19.8,88.2,66.3,67.0,,No,Bachelor,Yes,Yes,70.0,Average
+S1478,Female,16,15.7,100.0,57.1,55.6,6.2,Yes,Bachelor,No,Yes,51.9,Average
+S1430,Male,17,12.9,79.8,58.1,66.6,8.4,Yes,High School,Yes,No,45.4,Low
+S1441,Male,17,13.9,53.5,69.4,74.0,5.7,Yes,High School,No,No,49.9,Low
+S1820,FEMALE,16,4.4,81.3,,75.2,5.9,Yes,,Yes,No,49.4,Low
+S1853,Male,15,1.4,63.5,76.4,66.5,6.5,Yes,High School,Yes,Yes,27.7,Low
+S1030,Male,17,14.7,80.9,97.0,70.6,7.9,Yes,Bachelor,Yes,No,65.5,Average
+S1281,Male,18,13.0,81.3,75.1,63.7,7.4,Yes,High School,Yes,No,62.6,Average
+S1876,Female,16,5.0,90.8,89.8,54.5,7.6,Yes,PhD,No,No,69.8,Average
+S1974,Male,17,14.6,97.2,57.4,65.6,5.2,Yes,Master,Yes,No,59.2,Average
+S1117,Male,17,14.7,94.3,54.9,93.5,7.9,Yes,High School,No,No,69.7,Average
+S1880,Male,16,7.3,74.6,100.0,86.4,8.7,Yes,PhD,Yes,No,63.4,Average
+S1116,Male,19,14.4,,54.2,68.3,6.7,Yes,High School,Yes,No,49.5,Low
+S1758,Male,17,14.6,77.6,82.8,95.3,,Yes,Bachelor,No,No,63.0,Average
+S1668,Female,17,20.5,96.5,42.6,53.4,4.2,Yes,Bachelor,Yes,No,60.7,Average
+S1291,Male,19,80.0,95.0,48.9,100.0,5.2,Yes,High School,No,No,66.4,Average
+S1027,Female,16,13.3,83.1,54.7,85.8,7.5,Yes,Bachelor,No,No,49.6,Low
+S1381,Female,16,19.5,100.0,70.1,82.3,7.6,Yes,Master,Yes,No,72.4,High
+S1307,Female,16,10.3,83.5,33.2,82.1,6.2,No,Bachelor,Yes,No,38.4,Low
+S1510,MALE,16,5.3,84.5,58.7,65.7,7.8,Yes,Bachelor,No,No,47.9,Low
+S1597,Female,18,8.4,95.6,82.7,84.0,6.1,Yes,High School,Yes,No,60.1,Average
+S1200,Male,19,24.8,61.5,52.7,56.6,5.7,Yes,High School,Yes,No,55.7,Average
+S1718,Male,17,17.8,83.7,66.0,62.2,4.9,Yes,High School,No,No,59.1,Average
+S1385,Male,16,6.2,81.6,74.4,76.6,8.2,Yes,High School,Yes,Yes,49.7,Low
+S1716,Female,18,21.4,73.7,55.3,63.8,5.9,No,High School,No,No,50.1,Average
+S1664,Female,17,9.0,70.2,79.9,46.8,8.8,Yes,Bachelor,Yes,Yes,55.3,Average
+S1910,Female,15,24.9,75.6,66.8,85.4,6.2,No,High School,No,Yes,68.0,Average
+S1799,Male,17,6.7,,75.9,57.2,6.4,Yes,PhD,Yes,Yes,53.5,Average
+S1541,Male,16,26.0,92.9,70.2,58.5,7.2,Yes,Bachelor,No,Yes,88.0,High
+S1314,Male,19,1.0,82.2,73.5,29.3,7.5,Yes,High School,No,No,37.4,Low
+S1142,Male,19,19.0,84.5,49.8,75.5,7.7,Yes,Bachelor,No,No,59.2,Average
+S1280,Male,18,,73.1,41.8,84.0,8.3,Yes,High School,Yes,No,35.5,Low
+S1958,Female,18,6.8,,75.3,95.2,5.9,Yes,PhD,Yes,Yes,63.9,Average
+S1760,Male,16,10.8,80.0,71.5,56.0,6.3,Yes,High School,No,No,55.7,Average
+S1353,Male,19,9.4,87.0,37.9,62.1,7.8,Yes,PhD,No,No,47.7,Low
+S1740,Female,17,15.6,47.7,71.0,68.7,7.5,Yes,Master,Yes,No,61.4,Average
+S1207,Female,18,13.5,86.0,73.7,55.7,9.5,Yes,Bachelor,Yes,No,52.4,Average
+S1379,Male,17,16.0,79.9,65.8,58.9,5.6,Yes,PhD,Yes,No,69.6,Average
+S1768,Male,15,19.5,77.2,55.3,74.9,4.8,Yes,PhD,Yes,No,61.8,Average
+S1412,Male,16,22.8,81.0,57.8,51.2,8.2,Yes,High School,Yes,No,64.3,Average
+S1796,female,19,7.7,92.7,70.9,100.0,9.3,Yes,,No,No,62.9,Average
+S1023,Female,19,19.2,86.7,71.6,80.1,5.1,Yes,High School,Yes,Yes,70.1,High
+S1340,Female,17,21.4,82.2,72.6,100.0,6.6,Yes,High School,Yes,Yes,77.4,High
+S1922,Male,19,17.3,78.0,51.1,96.2,6.7,Yes,High School,No,Yes,60.9,Average
+S1641,Female,15,12.7,91.9,73.8,54.5,7.3,Yes,,No,No,68.1,Average
+S1154,Male,16,14.0,82.5,64.8,88.2,5.3,Yes,High School,No,No,59.6,Average
+S1865,Female,17,7.3,93.6,59.3,55.4,7.2,Yes,Master,Yes,No,55.3,Average
+S1558,Female,19,20.5,90.2,85.5,53.6,5.3,Yes,Bachelor,No,No,67.0,Average
+S1998,Female,16,16.9,62.8,49.9,77.3,8.5,Yes,Bachelor,Yes,No,49.5,Low
+S1968,Female,19,23.6,49.1,65.1,63.0,5.6,No,PhD,Yes,No,49.1,Low
+S1790,Male,17,27.6,86.0,42.9,90.4,6.8,,Bachelor,No,Yes,81.9,High
+S1322,Female,17,18.9,63.0,46.6,82.4,9.1,No,High School,No,No,43.8,Low
+S1544,Female,16,17.3,100.0,41.1,72.0,7.0,Yes,Master,Yes,No,55.1,Average
+S1603,Male,16,14.2,100.0,72.9,73.2,8.0,Yes,High School,Yes,Yes,71.9,High
+S1587,Male,15,5.7,86.7,75.9,100.0,6.8,Yes,High School,Yes,Yes,61.9,Average
+S1082,Male,19,16.6,68.5,83.4,76.1,8.2,Yes,Bachelor,No,Yes,69.6,Average
+S1861,Female,16,8.7,62.0,65.5,98.1,6.5,Yes,Bachelor,No,No,43.7,Low
+S1464,Male,19,8.4,94.3,83.1,45.2,,Yes,PhD,Yes,No,70.2,High
+S1552,Female,17,2.4,61.5,71.9,43.7,5.8,Yes,PhD,No,No,44.2,Low
+S1333,Female,19,14.3,76.1,70.3,67.0,6.1,Yes,High School,No,No,47.0,Low
+S1010,Female,16,11.5,84.6,60.1,70.4,7.7,Yes,,No,No,48.1,Low
+S1470,Female,19,1.0,85.3,63.5,89.7,6.9,Yes,Master,Yes,Yes,61.2,Average
+S1032,Male,18,18.9,100.0,57.0,52.4,5.9,Yes,High School,Yes,No,58.4,Average
+S1782,Male,15,19.4,91.0,81.5,43.5,6.8,Yes,High School,Yes,No,68.2,Average
+S1882,Male,15,18.0,93.7,49.8,75.4,7.0,Yes,Master,Yes,Yes,69.7,Average
+S1382,Female,16,13.3,91.0,48.2,84.3,7.0,Yes,High School,No,No,47.1,Low
+S1707,Female,19,12.6,79.1,41.6,80.0,6.6,Yes,PhD,No,No,54.3,Average
+S1556,Female,19,12.9,60.4,38.2,76.3,8.0,Yes,High School,No,No,31.4,Low
+S1906,Male,16,6.8,59.3,43.8,53.4,7.0,Yes,Bachelor,Yes,No,37.7,Low
+S1914,Female,16,22.5,92.7,83.1,79.9,6.6,Yes,Bachelor,Yes,Yes,82.7,High
+S1378,Male,17,27.9,70.4,58.5,81.5,6.2,No,High School,No,No,63.1,Average
+S1089,Female,15,14.9,76.1,55.4,90.6,6.7,Yes,High School,Yes,Yes,56.9,Average
+S1213,Male,19,6.1,100.0,,96.7,6.2,Yes,Bachelor,No,No,50.5,Average
+S1843,Male,19,2.3,74.4,66.0,76.2,9.3,,Master,Yes,No,52.8,Average
+S1133,Female,18,20.8,85.1,46.8,85.2,5.9,Yes,Bachelor,No,No,59.8,Average
+S1346,Female,19,16.4,82.7,64.1,79.4,6.8,Yes,Master,No,Yes,65.7,Average
+S1007,Female,17,8.0,65.9,63.8,63.0,6.5,No,High School,Yes,No,32.1,Low
+S1618,Male,15,4.3,93.9,92.5,83.4,7.2,Yes,High School,Yes,No,59.9,Average
+S1320,Male,15,13.9,100.0,78.1,62.8,6.1,Yes,Bachelor,Yes,Yes,69.7,Average
+S1909,Male,19,18.4,66.1,45.2,91.9,6.4,No,High School,Yes,Yes,61.7,Average
+S1187,Male,17,18.2,84.7,52.9,62.7,7.8,,Master,Yes,No,64.3,Average
+S1304,Female,18,22.7,68.9,57.1,55.5,8.3,Yes,Master,No,No,67.0,Average
+S1031,Male,15,14.8,75.6,74.3,63.3,7.1,Yes,Master,Yes,Yes,63.9,Average
+S1967,Male,17,5.9,72.9,67.9,68.1,5.1,Yes,PhD,Yes,No,42.1,Low
+S1240,Male,17,8.7,87.3,66.8,91.0,5.8,No,High School,No,No,62.9,Average
+S1728,Male,17,16.5,93.5,50.2,81.5,9.6,No,High School,No,No,62.4,Average
+S1174,Female,15,1.0,78.0,100.0,100.0,3.6,Yes,Master,Yes,Yes,55.8,Average
+S1245,Male,19,12.9,97.5,72.6,85.0,6.3,Yes,Bachelor,No,No,69.8,Average
+S1056,Female,17,17.7,81.2,50.6,47.2,5.7,Yes,High School,No,Yes,54.6,Average
+S1752,Male,18,6.0,69.0,66.2,77.8,7.6,Yes,Bachelor,No,No,49.8,Low
+S1145,Male ,17,7.1,92.9,86.2,63.4,7.0,Yes,Bachelor,No,No,57.9,Average
+S1090,Male,17,16.5,60.3,54.9,87.8,6.5,Yes,High School,No,No,48.8,Low
+S1392,Male,19,12.5,100.0,64.5,100.0,6.8,No,Bachelor,No,Yes,64.8,Average
+S1310,Female,17,23.7,,30.4,70.7,6.4,Yes,High School,No,Yes,62.4,Average
+S1359,Female,16,15.8,55.4,70.8,93.8,9.4,Yes,High School,Yes,No,62.9,Average
+S1093,Male,16,13.1,64.6,79.7,79.4,5.7,Yes,Bachelor,Yes,Yes,66.0,Average
+S1693,Female,16,28.3,69.9,62.2,45.8,7.5,No,High School,No,Yes,62.1,Average
+S1751,Male,19,17.6,94.5,68.8,80.2,8.2,Yes,High School,No,Yes,77.3,High
+S1376,Female,19,10.8,79.7,73.7,66.3,4.6,Yes,High School,Yes,No,54.5,Average
+S1243,Female,17,19.3,91.5,62.6,75.6,7.5,Yes,Bachelor,Yes,No,65.7,Average
+S1826,Female,15,12.2,,72.8,73.3,8.3,Yes,High School,Yes,Yes,66.2,Average
+S1087,Male,19,,86.4,55.2,85.3,7.0,Yes,Bachelor,Yes,Yes,51.3,Average
+S1214,Female,15,19.1,84.8,39.5,76.4,6.9,Yes,High School,Yes,No,55.1,Average
+S1984,Female,18,15.5,91.1,97.8,60.1,7.8,Yes,Master,No,No,72.8,High
+S1173,Female,15,24.3,,59.2,72.4,6.8,Yes,PhD,Yes,No,69.3,Average
+S1425,Male,19,10.7,62.1,50.1,55.6,5.1,Yes,Bachelor,Yes,No,35.2,Low
+S1776,Male,16,6.1,60.7,71.5,73.6,7.8,Yes,High School,No,No,48.8,Low
+S1118,Male,18,11.6,91.3,73.1,74.6,8.6,Yes,PhD,No,No,66.0,Average
+S1119,Male,17,,80.9,44.6,60.3,5.8,No,High School,Yes,Yes,37.6,Low
+S1719,Female,17,,60.9,43.8,51.9,8.8,Yes,PhD,Yes,No,40.9,Low
+S1000,Male,19,9.5,80.9,51.8,56.2,5.7,Yes,Bachelor,Yes,No,39.6,Low
+S1394,Female,16,19.5,70.0,28.1,81.1,7.2,Yes,Bachelor,Yes,No,46.0,Low
+S1401,Female,16,21.5,71.4,66.5,72.5,7.0,Yes,High School,Yes,Yes,71.1,High
+S1404,Male,15,19.0,79.1,39.0,64.4,7.4,Yes,Bachelor,No,No,49.8,Low
+S1842,Female,19,19.8,65.5,68.1,73.8,5.8,Yes,High School,No,No,61.7,Average
+S1624,Female,17,5.5,100.0,82.2,100.0,7.2,,High School,Yes,No,57.8,Average
+S1162,Male,19,1.4,94.8,67.5,57.4,7.1,Yes,High School,No,No,51.5,Average
+S1114,Female,15,13.1,86.6,45.4,90.5,6.2,Yes,High School,Yes,No,48.8,Low
+S1150,Female,16,11.8,83.3,59.7,92.5,6.8,Yes,Master,Yes,Yes,59.2,Average
+S1715,Female,19,10.8,93.9,64.1,63.8,6.5,Yes,Master,No,No,61.0,Average
+S1580,Male,16,9.2,100.0,77.7,97.4,8.2,Yes,Bachelor,Yes,Yes,77.2,High
+S1806,Female,15,,80.0,70.2,86.8,8.3,Yes,High School,Yes,No,70.0,Average
+S1368,Male,19,25.2,83.0,57.8,59.6,5.7,Yes,Master,No,No,67.1,Average
+S1543,Male,17,14.4,74.8,69.7,70.3,7.5,Yes,High School,Yes,No,53.7,Average
+S1477,Male,16,13.1,91.8,78.6,76.8,8.4,No,Bachelor,Yes,No,63.8,Average
+S1532,Male,19,6.9,96.8,70.9,66.0,6.1,Yes,Bachelor,Yes,Yes,56.3,Average
+S1990,Male,17,6.8,83.4,76.7,36.7,7.9,Yes,High School,Yes,No,52.4,Average
+S1590,Female,18,18.6,92.1,68.1,83.3,7.6,Yes,Bachelor,Yes,Yes,73.5,High
+S1961,Male,19,19.2,,40.5,100.0,7.7,Yes,High School,No,No,49.7,Low
+S1258,Male,17,17.1,84.8,53.1,82.5,7.5,Yes,Master,Yes,No,57.3,Average
+S1848,Male ,17,11.2,75.6,51.0,32.6,6.5,No,PhD,No,No,43.1,Low
+S1135,Male,15,17.6,73.4,73.7,61.0,8.3,No,Master,Yes,No,65.6,Average
+S1954,Female,19,20.2,84.7,57.3,89.9,9.0,Yes,High School,No,No,60.7,Average
+S1899,Female,16,12.7,88.1,68.3,58.8,,Yes,PhD,Yes,No,54.2,Average
+S1798,Male,17,13.1,73.7,79.5,81.6,7.2,Yes,High School,Yes,No,60.5,Average
+S1501,Female,16,5.4,89.9,83.3,100.0,7.4,Yes,Bachelor,No,No,55.9,Average
+S1538,Female,18,17.0,93.0,86.7,100.0,5.9,Yes,Bachelor,No,No,67.5,Average
+S1655,Female,16,18.6,100.0,48.7,76.2,7.8,Yes,Bachelor,No,Yes,57.8,Average
+S1581,Female,16,17.3,61.2,50.6,77.5,7.4,No,Bachelor,Yes,No,55.7,Average
+S1343,Female,17,6.9,91.9,54.4,80.9,5.8,Yes,PhD,Yes,No,52.5,Average
+S1676,Female,15,17.9,70.5,52.3,74.7,9.1,Yes,Master,No,No,56.3,Average
+S1623,Male,15,5.7,72.0,61.3,90.3,7.1,Yes,Master,No,Yes,51.8,Average
+S1293,Male,15,20.0,53.5,63.6,80.3,7.6,Yes,Bachelor,No,No,57.4,Average
+S1364,Male,17,7.6,63.4,61.5,53.5,7.5,Yes,Bachelor,Yes,No,41.4,Low
+S1807,Male,17,20.7,76.9,78.4,70.7,10.0,Yes,Master,No,Yes,79.3,High
+S1014,Female,17,4.8,75.3,85.2,70.4,7.2,Yes,PhD,Yes,No,53.5,Average
+S1086,Male,19,28.7,100.0,60.9,65.3,,Yes,Master,Yes,Yes,81.9,High
+S1370,Male,19,17.9,92.0,69.3,66.5,8.1,Yes,Master,Yes,No,62.9,Average
+S1165,Female,15,9.9,77.5,62.8,81.3,7.0,Yes,High School,Yes,No,61.7,Average
+S1883,Male,19,10.2,80.1,70.9,69.2,8.2,Yes,High School,Yes,No,55.3,Average
+S1335,Female,19,17.7,48.8,76.1,62.0,8.2,Yes,Bachelor,Yes,No,57.9,Average
+S1059,Female,16,1.0,88.8,73.0,63.4,6.9,No,Bachelor,No,Yes,52.7,Average
+S1354,Female,16,10.6,97.1,57.3,76.8,5.2,No,High School,Yes,Yes,58.3,Average
+S1424,Male,16,22.9,90.5,,98.1,5.3,Yes,PhD,Yes,No,58.3,Average
+S1292,Female,17,11.1,88.6,56.9,68.3,7.3,Yes,Bachelor,No,No,53.6,Average
+S1041,Female,19,18.5,96.3,57.9,59.9,6.0,Yes,PhD,No,No,74.4,High
+S1329,Female,16,4.5,100.0,68.6,70.3,6.1,Yes,Master,No,No,63.3,Average
+S1614,Female,15,13.1,93.6,92.8,89.4,7.6,Yes,High School,No,No,67.0,Average
+S1429,Female,18,17.6,76.7,48.4,76.2,7.5,No,PhD,Yes,No,54.3,Average
+S1079,Female,19,10.8,,69.3,72.0,8.1,Yes,Bachelor,No,No,72.3,High
+S1028,Female,17,16.1,86.7,50.5,62.8,8.3,Yes,High School,Yes,Yes,58.2,Average
+S1254,Female,18,21.7,72.8,63.3,84.8,4.6,Yes,High School,No,Yes,68.2,Average
+S1750,Female,19,10.8,83.9,68.7,68.6,6.4,No,High School,Yes,No,45.2,Low
+S1458,Female,16,8.5,95.6,67.6,88.1,6.2,No,PhD,No,No,55.9,Average
+S1383,Male,19,12.5,89.8,63.0,71.4,6.3,Yes,Master,No,Yes,65.8,Average
+S1313,Male,19,,96.8,88.2,100.0,5.2,Yes,Bachelor,Yes,No,95.0,High
+S1084,Female,16,12.8,67.3,48.0,73.2,7.2,Yes,PhD,Yes,Yes,56.6,Average
+S1574,Male,15,19.0,86.9,67.3,79.9,7.4,Yes,Master,Yes,Yes,74.9,High
+S1136,Female,18,,91.3,77.8,100.0,,No,High School,Yes,No,65.0,Average
+S1111,Female,16,10.5,,43.1,67.9,8.0,Yes,Bachelor,Yes,No,45.7,Low
+S1194,Female,17,11.8,70.7,70.2,51.1,5.2,Yes,Bachelor,Yes,No,50.8,Average
+S1178,Female,16,18.1,73.7,,41.9,7.1,No,High School,Yes,Yes,52.2,Average
+S1887,Male,17,16.9,72.1,63.4,70.8,6.0,No,High School,No,No,49.7,Low
+S1496,Male,17,16.8,67.7,,63.9,6.8,Yes,High School,No,No,55.8,Average
+S1129,Female,18,23.5,92.4,81.9,84.9,8.3,Yes,Bachelor,Yes,Yes,77.6,High
+S1337,Male,16,12.5,86.4,100.0,75.2,8.8,Yes,Bachelor,Yes,Yes,74.2,High
+S1608,Female,16,6.4,86.6,33.5,81.5,6.9,Yes,Bachelor,Yes,Yes,45.1,Low
+S1124,Female,19,14.1,89.6,52.0,76.1,7.6,Yes,Master,Yes,No,51.9,Average
+S1962,Male ,15,18.4,78.3,50.7,94.0,7.2,Yes,Bachelor,No,No,58.1,Average
+S1226,Female,15,,82.4,44.3,56.9,7.7,Yes,Bachelor,Yes,No,55.9,Average
+S1268,Female,19,9.2,69.5,,85.8,6.7,Yes,High School,Yes,Yes,53.6,Average
+S1979,Female,18,9.5,100.0,81.6,99.9,8.0,Yes,High School,No,No,71.9,High
+S1452,Male,15,14.2,54.1,80.4,99.4,5.5,No,Bachelor,Yes,No,59.5,Average
+S1103,Male,15,12.8,77.9,74.9,71.0,6.4,Yes,Master,Yes,Yes,70.2,High
+S1593,Female,15,11.6,86.3,72.8,86.6,8.9,Yes,Bachelor,Yes,No,65.9,Average
+S1854,Male,15,18.6,85.6,80.5,62.9,5.4,Yes,,Yes,Yes,72.0,High
+S1657,Female,19,15.2,75.4,61.0,100.0,6.4,Yes,PhD,No,No,69.8,Average
+S1227,Female,19,25.6,84.1,60.3,98.0,,Yes,,Yes,No,64.0,Average
+S1885,Female,15,12.2,98.4,41.7,100.0,7.8,Yes,High School,No,No,49.5,Low
+S1301,Female,17,17.9,59.8,57.3,95.8,7.9,Yes,High School,No,Yes,52.3,Average
+S1275,Male,18,24.1,65.3,65.9,56.1,7.9,Yes,Bachelor,No,No,67.4,Average
+S1126,Male,19,15.1,,50.2,53.7,7.0,Yes,Bachelor,Yes,No,58.5,Average
+S1405,Female,15,,80.6,39.8,54.5,6.9,Yes,Master,No,No,48.3,Low
+S1932,Male,19,7.5,91.7,66.8,67.0,7.5,Yes,Bachelor,No,No,55.8,Average
+S1036,Female,19,17.8,85.0,38.8,100.0,7.5,Yes,Master,Yes,No,62.6,Average
+S1139,Male,17,5.9,98.8,73.4,31.5,8.1,Yes,Bachelor,Yes,Yes,61.1,Average
+S1303,Female,19,23.2,87.0,78.2,52.1,8.0,Yes,Bachelor,Yes,No,72.9,High
+S1267,Male,16,16.0,70.9,54.7,97.1,6.2,Yes,Bachelor,Yes,No,53.1,Average
+S1533,Male,15,10.6,88.6,58.3,48.2,6.4,Yes,,Yes,No,50.5,Average
+S1545,Male,17,19.4,84.6,52.6,97.9,5.2,Yes,,Yes,No,69.2,Average
+S1212,Female,17,16.5,77.5,67.7,60.9,6.2,Yes,PhD,No,No,54.9,Average
+S1468,Male,18,13.5,70.5,69.9,90.3,6.2,No,High School,Yes,Yes,52.3,Average
+S1198,Male,19,8.8,97.0,67.1,80.5,6.2,Yes,High School,No,No,65.0,Average
+S1527,Male,15,11.9,95.1,83.6,80.8,7.9,Yes,Bachelor,Yes,No,67.6,Average
+S1794,Male,17,9.3,62.6,73.4,100.0,7.7,Yes,High School,Yes,No,47.0,Low
+S1241,Female,18,27.7,89.3,77.3,95.2,,Yes,PhD,No,No,88.6,High
+S1342,Female,15,11.9,85.1,55.3,32.2,7.9,Yes,Bachelor,No,No,58.4,Average
+S1549,Female,15,9.7,82.1,68.7,89.6,7.1,Yes,Bachelor,Yes,No,58.3,Average
+S1386,Male,17,16.1,84.4,49.9,48.6,6.0,Yes,Bachelor,No,Yes,57.0,Average
+S1860,Female,18,23.4,100.0,65.5,70.6,10.0,Yes,High School,Yes,Yes,71.0,High
+S1206,Female,17,8.0,67.4,62.6,61.6,5.9,Yes,PhD,No,No,43.6,Low
+S1295,Female,17,18.8,,67.0,66.6,7.6,No,PhD,Yes,No,61.7,Average
+S1771,Female,16,9.1,100.0,51.9,89.6,4.9,Yes,High School,No,No,43.4,Low
+S1073,Male,17,8.3,93.1,80.9,76.7,7.0,Yes,High School,Yes,No,65.4,Average
+S1746,Female,19,13.3,68.3,63.2,59.1,10.0,Yes,High School,No,No,42.8,Low
+S1104,Female,16,7.3,65.1,65.1,72.2,6.9,Yes,High School,Yes,No,38.9,Low
+S1689,Female,15,,85.2,,59.4,4.7,Yes,High School,Yes,Yes,65.3,Average
+S1874,Female,17,14.1,95.2,60.7,56.9,6.7,Yes,High School,No,No,56.2,Average
+S1966,Female,16,21.8,94.7,,84.7,7.0,No,High School,No,Yes,73.8,High
+S1016,Female,16,18.4,,65.9,50.4,9.3,Yes,Bachelor,No,No,63.7,Average
+S1439,Male,19,15.5,85.5,72.6,65.4,5.1,No,Master,No,No,60.4,Average
+S1091,Female,17,14.7,,51.9,85.6,7.1,Yes,High School,Yes,No,57.5,Average
+S1088,Female,18,22.8,89.0,44.9,81.8,7.0,No,Bachelor,Yes,No,64.5,Average
+S1450,Female,16,20.0,74.4,76.2,80.6,8.2,Yes,High School,Yes,Yes,67.5,Average
+S1102,Female,19,13.5,79.6,49.3,35.1,8.5,Yes,Bachelor,No,Yes,44.3,Low
+S1238,Male,16,10.0,78.5,,70.4,6.7,Yes,High School,Yes,Yes,55.1,Average
+S1722,Female,18,19.2,59.1,82.3,64.3,,No,Bachelor,No,No,63.9,Average
+S1246,Female,19,9.7,100.0,46.6,72.6,6.5,No,High School,Yes,No,39.3,Low
+S1714,Female,18,7.8,79.3,70.4,76.8,9.3,Yes,High School,No,Yes,62.8,Average
+S1157,Female,19,12.9,81.7,65.6,88.4,6.4,Yes,,No,No,52.8,Average
+S1479,Male,17,28.0,77.5,55.7,82.6,5.1,Yes,High School,Yes,No,66.1,Average
+S1645,Male,16,13.7,74.8,53.3,67.4,6.2,Yes,High School,Yes,No,42.6,Low
+S1846,Male,17,14.0,75.6,58.3,74.3,8.1,Yes,High School,No,Yes,53.3,Average
+S1988,Male,16,7.9,69.8,32.0,100.0,7.2,Yes,PhD,No,Yes,50.3,Average
+S1018,Female,15,17.8,78.5,55.3,63.8,7.5,Yes,High School,Yes,No,54.8,Average
+S1706,Male,19,16.7,87.8,33.0,77.7,6.6,Yes,Bachelor,No,Yes,61.9,Average
+S1121,Female,15,17.9,74.4,64.3,67.1,5.3,Yes,High School,No,No,54.5,Average
+S1837,Male,16,14.6,71.7,76.7,66.7,6.6,Yes,,Yes,No,57.8,Average
+S1705,Female,19,14.8,76.4,70.5,85.0,7.0,Yes,Bachelor,No,Yes,72.9,High
+S1274,Male,18,8.0,72.3,49.2,59.7,6.2,No,Master,Yes,No,43.1,Low
+S1433,Male,17,21.1,76.6,68.0,74.1,6.6,Yes,Bachelor,Yes,No,62.3,Average
+S1898,Male,18,14.9,66.9,45.6,76.6,5.0,Yes,Bachelor,Yes,No,43.2,Low
+S1311,Female,16,,75.4,,68.2,6.5,Yes,High School,No,No,50.3,Average
+S1831,Male,19,10.6,88.9,74.6,66.9,6.1,Yes,Bachelor,Yes,No,58.1,Average
+S1836,Female,19,11.5,70.2,66.5,92.5,8.3,Yes,Bachelor,No,Yes,63.4,Average
+S1546,Male,18,2.0,91.7,78.1,61.5,6.3,No,Master,Yes,Yes,48.0,Low
+S1181,Male,19,20.1,77.6,88.7,72.9,7.0,No,Master,Yes,No,74.1,High
+S1184,Male,17,19.8,90.8,48.4,100.0,6.9,Yes,PhD,Yes,No,57.6,Average
+S1406,Male,16,4.4,100.0,53.2,100.0,6.3,Yes,Bachelor,Yes,No,58.6,Average
+S1606,Male,15,13.9,84.2,60.9,82.9,7.7,Yes,Master,Yes,Yes,60.7,Average
+S1692,Female,18,14.8,87.4,62.1,58.0,7.2,Yes,Bachelor,Yes,No,63.3,Average
+S1520,Male,19,5.8,92.2,66.0,56.1,6.2,Yes,Bachelor,Yes,No,49.7,Low
+S1380,Male,19,9.6,73.7,64.7,34.4,8.7,Yes,PhD,No,No,53.5,Average
+S1410,Male,15,15.1,73.6,57.8,72.6,6.6,Yes,High School,Yes,No,50.5,Average
+S1634,Male,17,,,98.3,75.8,8.6,Yes,Bachelor,Yes,No,87.9,High
+S1369,Female,18,16.8,100.0,58.3,77.7,8.0,Yes,Bachelor,Yes,No,66.3,Average
+S1814,Female,19,14.6,74.1,34.2,97.1,5.2,Yes,High School,Yes,No,48.3,Low
+S1834,Female,17,,93.6,50.8,84.8,5.3,Yes,High School,No,Yes,66.4,Average
+S1754,Female,18,5.6,97.5,72.4,58.7,8.0,Yes,Bachelor,Yes,No,54.6,Average
+S1078,Female,17,8.8,70.1,56.4,72.3,8.6,Yes,Bachelor,No,No,50.1,Average
+S1573,Male,19,12.4,87.8,64.7,94.0,7.2,Yes,High School,Yes,Yes,59.6,Average
+S1637,Male,18,12.1,96.1,63.1,72.9,6.9,Yes,High School,No,No,48.0,Low
+S1607,Female,17,5.3,81.1,52.9,93.8,8.3,Yes,Master,Yes,No,58.8,Average
+S1795,Male,16,10.2,75.6,66.5,80.4,6.3,Yes,Bachelor,Yes,No,56.6,Average
+S1995,Female,15,12.4,85.7,69.8,79.6,8.9,Yes,High School,Yes,No,64.2,Average
+S1862,Male,19,,,45.1,41.0,6.4,No,High School,Yes,No,44.1,Low
+S1925,Female,15,7.2,80.9,26.9,55.2,9.4,Yes,Bachelor,No,No,32.2,Low
+S1416,Female,18,13.0,75.8,52.0,62.5,7.5,Yes,Master,No,Yes,56.1,Average
+S1743,Male,15,10.5,81.4,69.1,82.7,8.0,Yes,High School,Yes,Yes,59.9,Average
+S1561,Male,16,1.2,95.0,38.9,62.3,6.7,Yes,PhD,No,No,37.4,Low
+S1067,Male,18,10.8,83.4,78.4,62.0,8.2,Yes,Master,Yes,No,61.4,Average
+S1536,Male,15,16.0,87.8,44.1,89.3,6.1,Yes,High School,Yes,No,53.6,Average
+S1077,Male,15,9.4,65.5,65.0,57.7,4.4,Yes,High School,No,No,49.5,Low
+S1105,Female,15,12.6,58.3,38.4,72.1,9.3,Yes,Bachelor,No,No,40.8,Low
+S1049,Female,15,14.3,81.7,52.5,100.0,,Yes,Bachelor,Yes,No,63.1,Average
+S1781,Female,16,11.0,101.0,51.1,56.1,6.1,Yes,High School,No,Yes,49.1,Low
+S1638,Female,15,22.1,71.2,74.1,78.4,5.5,Yes,Master,Yes,Yes,72.5,High
+S1559,Female,19,21.2,81.2,67.8,70.7,7.5,Yes,PhD,Yes,Yes,71.3,High
+S1761,Female,17,,100.0,66.2,80.8,8.4,Yes,High School,Yes,No,72.5,High
+S1690,Female,18,3.4,70.6,90.7,76.3,6.6,Yes,Master,Yes,No,48.7,Low
+S1869,Male,18,,88.7,70.7,38.7,8.1,No,High School,Yes,Yes,53.0,Average
+S1952,Female,15,5.2,92.9,67.9,92.5,6.6,Yes,,No,Yes,58.8,Average
+S1871,Male,16,22.9,96.4,57.2,96.6,,Yes,,No,No,78.6,High
+S1735,Female,18,14.8,92.0,50.9,42.4,7.7,Yes,Bachelor,No,No,52.0,Average
+S1779,Female,18,10.5,94.6,37.0,88.6,4.8,Yes,Bachelor,No,No,57.3,Average
+S1490,Female,16,14.5,74.7,47.9,70.2,8.5,Yes,,Yes,Yes,66.0,Average
+S1507,Male,17,12.9,71.1,42.4,62.8,7.3,Yes,Bachelor,Yes,No,41.0,Low
+S1845,Male,18,15.6,77.0,54.1,74.7,7.7,Yes,High School,No,No,49.1,Low
+S1605,Female,19,16.0,99.7,67.4,80.6,5.1,Yes,Bachelor,Yes,Yes,65.7,Average
+S1363,Female,16,2.7,,62.3,100.0,7.5,Yes,High School,Yes,No,43.3,Low
+S1069,Male,15,19.9,76.4,64.1,100.0,7.9,Yes,High School,Yes,No,64.4,Average
+S1548,Female,17,15.3,75.0,57.4,92.2,6.5,Yes,Bachelor,Yes,No,53.4,Average
+S1160,Female,17,13.4,75.7,68.2,69.5,8.6,Yes,Master,Yes,No,54.8,Average
+S1011,Female,18,5.5,100.0,52.8,88.4,8.4,Yes,PhD,No,No,53.0,Average
+S1144,Female,16,12.4,88.0,80.2,85.1,6.7,No,High School,Yes,Yes,65.0,Average
+S1517,Male,15,18.7,80.8,75.1,76.1,8.0,Yes,High School,Yes,No,64.5,Average
+S1427,Female,19,2.8,71.4,70.8,54.1,7.3,Yes,High School,Yes,No,44.5,Low
+S1639,Female,16,17.0,70.1,37.3,56.0,6.7,Yes,Master,No,No,48.3,Low
+S1176,Female,16,10.7,86.7,65.8,68.1,8.3,No,High School,No,No,57.7,Average
+S1440,Female,18,17.9,77.7,87.1,79.4,7.0,Yes,Bachelor,No,Yes,77.8,High
+S1521,Male,18,16.0,98.5,63.3,82.7,5.8,No,Master,Yes,Yes,72.3,High
+S1872,Male,18,8.6,82.9,59.5,82.3,5.3,Yes,PhD,No,No,51.4,Average
+S1959,Male,15,10.5,91.6,73.9,96.5,6.9,,Bachelor,Yes,No,68.2,Average
+S1688,Male,19,4.6,75.0,67.2,73.5,6.8,Yes,High School,Yes,No,43.8,Low
+S1231,Female,18,22.9,79.4,77.4,38.3,6.3,No,,No,No,68.6,Average
+S1210,Male,18,14.9,88.1,64.7,81.1,8.7,Yes,High School,Yes,Yes,56.9,Average
+S1640,Female,18,15.2,79.6,84.0,98.3,7.1,Yes,High School,Yes,No,62.4,Average
+S1143,Male,19,,86.7,65.5,85.1,6.8,No,Bachelor,No,No,71.3,High
+S1753,Female,16,20.3,84.1,62.7,25.6,7.2,Yes,,Yes,Yes,55.0,Average
+S1519,Female,17,19.3,83.3,73.0,100.0,9.3,Yes,Bachelor,Yes,No,75.0,High
+S1262,Male,17,17.4,85.3,40.2,91.3,6.6,Yes,Master,Yes,No,62.9,Average
+S1298,Male,17,13.3,91.5,67.9,66.4,6.9,Yes,High School,No,No,57.8,Average
+S1766,Female,17,5.3,,56.4,34.7,7.1,Yes,,No,No,41.6,Low
+S1428,Male,16,25.2,68.1,71.0,79.5,7.7,Yes,High School,Yes,Yes,70.0,Average
+S1612,Female,18,16.1,98.5,41.9,88.7,8.2,Yes,High School,No,No,61.2,Average
+S1930,Female,15,16.7,82.9,88.9,97.6,9.0,Yes,Bachelor,Yes,No,71.9,High
+S1939,Female,16,14.2,95.7,38.1,89.1,7.1,No,High School,Yes,Yes,49.6,Low
+S1008,Male,18,7.8,91.2,66.8,80.3,6.3,Yes,Bachelor,No,No,52.5,Average
+S1156,Male,15,12.6,82.8,70.2,81.4,6.9,Yes,Bachelor,Yes,No,56.5,Average
+S1539,Male,18,1.4,100.0,59.3,88.5,6.4,Yes,Master,Yes,No,49.7,Low
+S1506,Female,19,1.0,89.0,70.3,91.0,6.5,No,Bachelor,No,Yes,49.2,Low
+S1436,Female,17,11.1,73.6,77.8,100.0,7.0,Yes,,No,No,54.6,Average
+S1266,Male,15,14.5,100.0,75.0,100.0,,No,PhD,No,Yes,78.5,High
+S1461,Male,16,17.9,81.8,90.2,71.6,8.2,Yes,High School,No,No,64.5,Average
+S1576,Female,17,13.4,91.4,68.1,57.6,5.6,No,Bachelor,Yes,No,54.2,Average
+S1338,Male,18,1.0,76.1,69.7,75.0,9.2,Yes,Bachelor,No,No,45.5,Low
+S1255,Male,15,16.5,83.0,37.1,100.0,8.6,Yes,High School,Yes,No,48.9,Low
+S1805,Female,15,6.2,79.1,68.3,68.9,6.9,,Master,Yes,No,54.8,Average
+S1973,Male,16,6.4,100.0,,81.7,4.8,Yes,High School,Yes,No,63.7,Average
+S1665,Female,16,14.9,81.3,52.2,58.9,3.7,Yes,High School,Yes,Yes,53.1,Average
+S1560,Female,16,13.0,77.5,42.1,78.4,7.3,Yes,High School,Yes,No,42.0,Low
+S1208,Male,16,4.4,,35.6,65.8,6.8,Yes,High School,Yes,Yes,44.4,Low
+S1287,Female,16,9.6,94.4,56.4,60.8,7.9,Yes,PhD,No,No,51.9,Average
+S1001,Female,18,19.5,76.8,92.5,63.9,6.6,Yes,Bachelor,No,No,78.9,High
+S1341,Male,15,1.0,97.5,46.9,81.1,8.6,Yes,Bachelor,Yes,No,45.3,Low
+S1269,Female,15,14.2,81.5,,78.7,5.9,Yes,High School,Yes,No,74.2,High
+S1265,Female,15,6.9,66.6,45.9,57.7,6.4,Yes,,No,No,31.6,Low
+S1815,Female,15,1.0,88.0,47.8,59.7,5.6,Yes,High School,No,No,41.4,Low
+S1822,Male,16,20.1,76.6,54.6,85.4,,Yes,High School,No,Yes,61.6,Average
+S1095,Male,15,11.3,85.3,99.1,63.3,5.8,Yes,Bachelor,Yes,No,55.7,Average
+S1972,Male,18,9.2,73.0,84.2,57.8,7.7,Yes,Bachelor,Yes,No,61.3,Average
+S1042,Female,17,16.3,89.5,73.1,96.0,7.4,Yes,Bachelor,No,No,79.7,High
+S1804,Female,15,14.4,88.9,41.8,27.3,7.7,No,PhD,Yes,No,47.2,Low
+S1242,Male,19,15.8,76.8,53.8,68.8,5.4,Yes,Bachelor,Yes,No,47.1,Low
+S1902,Male,18,15.4,88.9,70.4,76.7,9.4,Yes,High School,Yes,Yes,61.9,Average
+S1628,Female,16,16.7,72.1,99.4,90.6,7.4,Yes,,No,No,75.3,High
+S1045,Female,15,11.0,89.9,,87.4,5.3,Yes,Master,No,No,58.9,Average
+S1161,Female,17,12.5,87.1,51.1,71.2,7.3,Yes,High School,No,No,51.9,Average
+S1727,Male,17,,98.8,81.2,72.8,7.8,No,Bachelor,Yes,No,64.2,Average
+S1629,Male,15,15.9,,55.6,68.5,6.8,Yes,Bachelor,Yes,No,66.3,Average
+S1288,Female,15,10.2,67.8,67.1,92.7,5.5,Yes,Master,No,No,51.2,Average
+S1589,Female,15,9.6,56.8,58.8,81.5,7.3,Yes,High School,Yes,Yes,48.4,Low
+S1318,Female,17,15.5,86.4,77.1,100.0,7.5,Yes,Master,No,No,76.9,High
+S1956,Male,17,20.8,74.3,72.0,51.3,5.6,No,,No,No,46.8,Low
+S1575,Male,16,15.4,78.2,59.7,41.6,7.7,No,Bachelor,No,No,49.5,Low
+S1315,Female,16,1.9,95.3,53.6,89.4,5.8,Yes,PhD,No,Yes,54.9,Average
+S1892,Female,19,5.6,71.3,67.9,71.0,8.6,Yes,High School,Yes,Yes,52.9,Average
+S1230,Male,19,8.4,82.2,58.9,45.5,5.6,No,High School,No,Yes,41.7,Low
+S1809,Female,19,5.9,88.7,48.4,59.7,7.1,Yes,Bachelor,Yes,Yes,44.9,Low
+S1698,Male,16,,83.4,38.3,90.9,6.9,Yes,High School,No,No,51.3,Average
+S1828,Female,18,12.0,90.1,59.4,59.1,7.5,Yes,Bachelor,No,No,44.6,Low
+S1711,Female,17,9.6,60.7,51.7,58.1,7.3,Yes,High School,No,No,38.6,Low
+S1076,Male,18,14.6,72.8,54.6,49.0,4.8,Yes,High School,Yes,No,30.5,Low
+S1633,Male,19,13.7,75.5,76.5,88.4,9.0,Yes,Master,No,No,68.3,Average
+S1978,Male,15,3.2,,61.2,100.0,4.8,Yes,,Yes,No,45.9,Low
+S1247,Male,17,1.0,,77.3,72.8,7.6,Yes,High School,No,No,37.5,Low
+S1819,Female,16,20.7,82.1,57.1,51.3,7.6,Yes,High School,No,Yes,63.0,Average
+S1980,Female,18,,87.1,32.4,81.4,5.9,Yes,High School,Yes,Yes,37.9,Low
+S1476,Female,17,22.6,90.9,56.4,56.6,6.9,No,PhD,Yes,No,62.6,Average
+S1670,Female,18,19.8,79.4,82.0,56.2,8.4,Yes,High School,Yes,No,62.2,Average
+S1085,Female,19,14.7,95.9,48.4,82.2,8.3,Yes,High School,No,No,63.5,Average
+S1469,Female,15,11.4,70.2,52.2,67.4,6.3,Yes,High School,No,No,41.2,Low
+S1225,Male,19,12.5,70.0,63.3,85.4,,Yes,Bachelor,No,No,46.3,Low
+S1774,Female,18,22.9,89.8,50.6,73.0,8.4,No,High School,Yes,No,60.6,Average
+S1331,Male,18,7.1,75.9,55.4,100.0,7.7,Yes,Bachelor,Yes,No,49.4,Low
+S1233,Female,18,6.1,75.5,53.4,60.4,,Yes,High School,No,No,34.6,Low
+S1588,Female,19,10.2,77.4,58.2,100.0,7.2,Yes,Bachelor,Yes,Yes,61.8,Average
+S1475,Female,16,5.7,70.3,63.0,74.3,7.9,Yes,High School,Yes,No,41.6,Low
+S1893,Female,18,17.9,64.4,43.8,46.3,8.4,No,Master,Yes,No,49.6,Low
+S1873,Male,19,10.5,80.0,41.3,78.4,6.3,Yes,,No,No,37.6,Low
+S1599,Female,18,7.0,84.4,72.8,19.7,8.6,Yes,Bachelor,No,No,55.9,Average
+S1421,Female,19,16.0,95.5,38.8,45.7,5.9,Yes,High School,Yes,No,46.7,Low
+S1687,Female,17,12.6,81.8,71.3,77.6,6.3,Yes,High School,Yes,Yes,58.1,Average
+S1182,Male,18,,83.5,65.6,43.8,5.4,No,,Yes,Yes,60.9,Average
+S1617,Male,17,13.3,87.5,66.6,69.7,6.3,Yes,Bachelor,Yes,No,56.2,Average
+S1332,Male,17,8.2,105.0,64.3,71.6,7.5,Yes,High School,Yes,Yes,46.8,Low
+S1438,Male,16,18.2,62.2,43.3,97.9,8.4,Yes,High School,No,Yes,62.0,Average
+S1049,Female,15,14.3,81.7,52.5,100.0,,Yes,Bachelor,Yes,No,63.1,Average
+S1005,Female,19,15.3,83.3,61.5,79.2,8.2,Yes,High School,No,Yes,62.0,Average
+S1529,Female,19,15.9,80.5,77.1,66.4,6.3,Yes,High School,Yes,No,61.7,Average
+S1234,Male,18,11.1,79.9,79.5,39.2,6.4,Yes,Bachelor,Yes,No,53.5,Average
+S1486,Male,15,11.6,72.1,72.8,82.3,5.8,Yes,Bachelor,No,No,49.5,Low
+S1907,Male,15,7.6,83.4,42.8,56.3,5.5,,High School,No,Yes,28.4,Low
+S1497,Male,18,19.9,73.6,69.4,92.8,5.8,Yes,High School,Yes,No,66.9,Average
+S1901,Male,17,11.8,82.8,66.7,100.0,7.6,Yes,Bachelor,No,Yes,64.4,Average
+S1106,Female,16,,78.9,73.6,100.0,6.7,Yes,Bachelor,No,No,58.4,Average
+S1443,Male,17,11.5,71.2,29.1,100.0,7.9,Yes,Bachelor,No,Yes,46.1,Low
+S1488,Female,15,13.3,83.1,49.3,100.0,7.7,Yes,Bachelor,Yes,No,57.3,Average
+S1646,Male,16,14.5,77.3,55.0,63.0,8.7,No,High School,Yes,No,51.6,Average
+S1012,Female,16,16.7,87.9,96.5,89.0,6.1,Yes,Master,Yes,No,78.3,High
+S1738,Female,15,,79.9,58.5,85.4,7.3,No,Bachelor,No,Yes,65.5,Average
+S1726,Female,19,10.8,77.6,42.2,61.6,8.7,Yes,Bachelor,No,No,44.1,Low
+S1190,Female,17,22.8,72.3,58.0,99.1,7.6,Yes,Bachelor,Yes,No,68.1,Average
+S1950,Male,19,20.2,100.0,52.2,74.1,7.2,Yes,High School,No,No,71.5,High
+S1832,Male,17,11.3,74.3,61.3,67.3,7.5,Yes,Bachelor,No,No,52.4,Average
+S1282,Female,16,4.6,96.0,64.8,100.0,5.9,Yes,,No,Yes,54.2,Average
+S1029,Male,16,18.6,85.6,43.8,93.2,6.6,Yes,Bachelor,Yes,No,65.5,Average
+S1169,Male,19,14.4,85.0,81.0,99.9,7.5,,Bachelor,Yes,No,61.4,Average
+S1180,Female,18,11.7,93.2,60.3,100.0,6.1,No,High School,No,No,52.2,Average
+S1100,Female,17,16.7,81.6,68.5,73.7,8.1,Yes,Master,No,No,65.8,Average
+S1197,Male,19,,89.3,52.3,70.9,5.9,Yes,High School,Yes,No,33.4,Low
+S1495,Male,17,8.9,80.1,42.3,94.6,5.7,No,Master,Yes,No,41.7,Low
+S1721,Female,18,13.2,,100.0,71.5,7.7,Yes,High School,Yes,No,77.2,High
+S1647,Female,18,9.9,59.7,34.2,65.1,7.9,Yes,High School,Yes,Yes,40.7,Low
+S1983,Female,18,,68.0,51.1,95.3,4.3,Yes,High School,Yes,No,48.1,Low
+S1937,Male,17,17.7,77.1,37.7,100.0,9.1,Yes,Bachelor,No,No,51.0,Average
+S1710,Female,16,16.2,88.1,71.2,89.4,7.5,No,Bachelor,Yes,No,64.1,Average
+S1373,Male,17,9.2,99.8,56.8,38.3,7.2,No,High School,No,No,44.6,Low
+S1678,Female,19,14.3,80.1,39.8,60.0,4.6,Yes,High School,No,No,46.6,Low
+S1888,FEMALE,15,9.8,100.0,33.9,96.8,,Yes,PhD,No,No,55.8,Average
+S1648,Female,19,17.2,73.9,74.9,100.0,6.5,Yes,Bachelor,Yes,Yes,67.7,Average
+S1797,female,15,7.7,75.5,61.0,96.7,6.6,No,Bachelor,Yes,No,38.7,Low
+S1847,Male,17,15.0,82.1,79.2,78.1,7.9,Yes,High School,Yes,No,62.8,Average
+S1460,Female,18,19.5,75.1,69.9,50.0,7.1,Yes,PhD,No,No,63.7,Average
+S1413,Male,18,21.4,78.7,65.4,100.0,8.5,Yes,High School,Yes,Yes,77.1,High
+S1131,Female,18,19.8,60.3,92.2,82.9,5.9,Yes,Bachelor,No,Yes,76.1,High
+S1039,Female,19,18.0,80.9,32.4,69.3,5.0,Yes,Bachelor,Yes,No,48.8,Low
+S1434,Male,16,12.1,93.8,74.4,66.6,7.9,Yes,High School,Yes,Yes,64.3,Average
+S1215,Male,15,9.2,59.7,51.3,49.5,6.9,Yes,PhD,No,No,38.1,Low
+S1555,Female,15,12.6,79.4,57.3,72.5,,Yes,Master,Yes,No,50.5,Average
+S1566,Male,19,7.0,83.7,,48.0,7.2,No,PhD,No,No,45.3,Low
+S1762,Female,15,100.0,66.8,65.7,69.1,,Yes,High School,No,Yes,54.8,Average
+S1474,Female,19,16.2,88.9,62.7,36.2,5.4,Yes,,Yes,No,44.4,Low
+S1456,Male,19,,76.8,47.3,62.5,7.0,Yes,Bachelor,Yes,No,58.8,Average
+S1811,Female,18,7.3,87.6,60.9,73.7,8.6,Yes,Master,Yes,No,51.4,Average
+S1260,Female,16,10.5,89.0,61.1,100.0,6.7,Yes,Master,Yes,Yes,65.2,Average
+S1816,Male,16,8.1,94.8,82.3,80.6,6.4,No,Bachelor,No,Yes,63.8,Average
+S1035,Male,18,11.5,87.2,91.5,79.9,6.2,Yes,High School,Yes,Yes,71.3,High
+S1827,Female,19,2.9,95.2,39.8,95.5,5.8,Yes,High School,Yes,No,38.1,Low
+S1309,Male,19,10.4,66.7,76.4,88.8,7.1,Yes,High School,Yes,Yes,52.4,Average
+S1276,Male,18,10.8,93.3,65.9,61.5,8.0,Yes,High School,No,No,57.5,Average
+S1636,Male,15,5.5,84.5,83.9,85.0,7.5,Yes,Bachelor,No,No,51.4,Average
+S1654,Female,15,14.3,73.8,52.6,74.2,7.2,Yes,High School,Yes,No,58.8,Average
+S1622,Male,19,11.3,89.5,53.8,66.7,5.8,Yes,High School,Yes,Yes,55.6,Average
+S1835,Female,15,12.2,92.5,58.7,74.7,7.8,Yes,PhD,Yes,No,63.5,Average
+S1844,Male,18,2.2,77.6,57.4,68.0,7.6,Yes,Bachelor,Yes,No,43.2,Low
+S1393,Female,18,11.7,100.0,61.2,81.3,6.4,Yes,Bachelor,No,No,58.5,Average
+S1946,Female,15,1.0,55.2,42.2,55.4,6.8,Yes,High School,No,No,25.0,Low
+S1107,Female,19,8.5,82.7,81.0,53.1,8.5,Yes,High School,Yes,No,59.5,Average
+S1953,Male,17,7.4,73.3,66.8,68.9,6.7,Yes,PhD,Yes,No,45.8,Low
+S1524,Male,18,13.9,73.6,47.7,58.7,4.2,Yes,High School,Yes,Yes,44.3,Low
+S1784,Male,18,10.3,77.3,52.5,79.5,7.4,Yes,Bachelor,Yes,No,54.5,Average
+S1047,Female,18,7.7,100.0,76.8,78.1,7.4,Yes,High School,Yes,Yes,68.3,Average
+S1203,Female,18,7.1,71.8,78.0,94.1,7.9,Yes,High School,Yes,Yes,57.5,Average
+S1933,Female,19,10.7,75.3,71.6,37.5,7.1,No,PhD,Yes,No,47.9,Low
+S1631,Male,19,23.5,59.0,35.4,96.2,7.3,Yes,Master,Yes,No,60.7,Average
+S1021,Male,15,12.2,72.3,65.3,96.5,6.4,Yes,High School,No,No,51.8,Average
+S1402,male,16,19.8,91.5,63.9,88.3,9.1,Yes,Bachelor,No,No,69.4,Average
+S1083,Female,17,6.5,91.2,76.9,91.0,7.5,Yes,Master,No,No,61.2,Average
+S1130,Female,17,17.0,72.3,52.2,89.7,9.8,Yes,High School,No,No,47.6,Low
+S1415,male,18,95.0,63.6,90.2,83.5,6.2,Yes,,No,No,61.2,Average
+S1993,Male,18,15.0,66.8,81.6,63.1,6.5,Yes,Bachelor,No,No,52.5,Average
+S1841,Female,15,14.2,85.3,60.5,64.8,6.3,Yes,Master,Yes,No,59.7,Average
+S1741,Female,18,20.1,,59.9,60.5,7.2,Yes,Bachelor,Yes,No,64.4,Average
+S1697,Female,15,21.1,76.9,59.5,100.0,8.2,Yes,PhD,No,No,68.9,Average
+S1286,Male,19,15.8,53.4,76.5,41.9,8.8,Yes,High School,No,No,54.8,Average
+S1123,Male,16,10.4,84.3,80.6,100.0,7.4,Yes,,No,Yes,73.7,High
+S1033,Female,16,13.6,76.6,80.7,79.6,6.7,Yes,Master,No,Yes,65.0,Average
+S1985,Female,18,3.3,78.5,61.0,73.6,4.8,Yes,High School,Yes,Yes,49.1,Low
+S1516,Female,17,16.0,81.6,,79.1,8.7,Yes,Master,No,No,73.5,High
+S1923,Male,17,20.1,72.2,43.8,85.1,8.0,Yes,High School,Yes,No,52.8,Average
+S1019,Male,15,5.6,84.4,65.2,54.8,7.5,Yes,Bachelor,No,Yes,51.4,Average
+S1934,Male,15,20.4,65.1,71.9,76.3,6.6,No,High School,Yes,No,57.9,Average
+S1219,Female,17,12.1,80.5,47.3,82.2,7.7,Yes,,Yes,No,47.9,Low
+S1891,Female,16,16.4,77.9,55.9,65.5,8.4,Yes,High School,Yes,Yes,60.3,Average
+S1446,Male,19,21.6,64.7,56.6,61.5,8.1,Yes,High School,No,No,61.6,Average
+S1481,Female,15,12.2,91.2,53.9,100.0,8.6,,Master,No,No,70.4,High
+S1931,FEMALE,17,11.3,71.6,52.5,80.5,7.5,Yes,Master,Yes,No,52.0,Average
+S1356,Male,16,4.6,82.1,73.7,77.1,6.0,Yes,High School,Yes,No,50.1,Average
+S1661,Female,18,,72.2,80.4,62.4,7.8,Yes,High School,No,No,57.9,Average
+S1224,Female,17,20.0,70.8,49.7,89.8,7.6,Yes,Master,No,No,60.1,Average
+S1759,Female,17,8.4,71.1,65.4,69.2,,Yes,High School,Yes,Yes,56.5,Average
+S1092,Female,19,16.7,68.9,57.3,73.2,7.0,Yes,PhD,No,No,64.0,Average
+S1151,Male,17,16.1,84.6,,62.3,6.2,Yes,Bachelor,No,No,55.9,Average
+S1992,Male,16,10.5,100.0,49.6,58.7,8.5,,Bachelor,No,No,51.0,Average
+S1317,Female,17,14.4,87.5,50.9,67.6,7.4,Yes,Bachelor,No,No,57.7,Average
+S1448,Female,18,8.9,98.3,63.0,59.4,,Yes,Master,No,No,61.0,Average
+S1803,Female,16,11.3,93.6,55.4,78.6,8.4,Yes,Master,Yes,No,69.3,Average
+S1745,Male,19,17.8,81.1,59.8,95.0,7.5,Yes,High School,No,No,67.2,Average
+S1522,Male,15,15.1,82.0,58.4,69.2,6.1,Yes,Bachelor,No,No,47.8,Low
+S1279,Male,19,11.5,63.0,49.3,78.9,10.0,Yes,High School,No,No,45.6,Low
+S1583,Male,17,4.6,61.9,50.9,92.9,7.9,Yes,High School,No,No,36.2,Low
+S1764,Male,17,13.8,66.4,72.5,69.7,7.0,Yes,High School,Yes,No,49.7,Low
+S1604,Female,15,12.7,89.7,73.8,100.0,6.6,Yes,High School,Yes,No,63.8,Average
+S1991,Female,17,12.3,84.2,52.6,86.0,5.3,Yes,Bachelor,Yes,No,43.2,Low
+S1349,Male,17,12.8,78.5,59.6,86.0,7.9,Yes,Bachelor,No,No,50.9,Average
+S1927,Male ,15,12.4,74.1,71.4,59.6,7.0,No,High School,Yes,No,44.0,Low
+S1374,Female,19,16.6,79.7,73.5,95.2,7.2,No,Master,No,Yes,79.7,High
+S1400,Female,19,22.0,77.3,57.8,71.8,9.2,Yes,Bachelor,Yes,No,49.9,Low
+S1704,Male,19,4.4,99.2,69.9,67.0,7.5,Yes,High School,Yes,Yes,53.8,Average
+S1257,Male,17,8.6,68.8,65.8,62.6,8.2,Yes,,Yes,No,52.4,Average
+S1944,Male,16,17.1,100.0,98.3,84.0,7.2,Yes,,No,Yes,85.6,High
+S1851,Female,16,16.9,91.0,85.4,85.5,7.5,Yes,Bachelor,No,Yes,72.8,High
+S1072,Male,18,18.1,85.5,60.9,71.9,5.7,Yes,High School,Yes,No,58.2,Average
+S1195,Male,18,12.5,97.6,70.3,84.6,,Yes,High School,No,No,56.1,Average
+S1483,Female,15,12.0,75.6,38.3,61.2,6.8,No,Bachelor,Yes,No,35.9,Low
+S1855,Female,19,21.3,90.1,61.0,100.0,,Yes,Bachelor,Yes,No,83.5,High
+S1137,Male,16,,78.6,60.9,68.7,7.0,Yes,Master,Yes,No,46.3,Low
+S1494,Male,17,9.7,66.2,40.8,74.0,6.8,Yes,PhD,Yes,No,36.0,Low
+S1772,Male,16,14.7,98.7,54.9,74.1,8.4,Yes,Bachelor,Yes,No,50.6,Average
+S1550,Female,16,21.9,99.2,,72.1,8.7,No,PhD,Yes,No,76.1,High
+S1462,Female,15,18.5,100.0,73.9,48.1,9.7,Yes,High School,Yes,No,72.3,High
+S1201,Female,17,11.5,73.1,48.2,73.3,8.2,No,Bachelor,Yes,Yes,49.9,Low
+S1312,Male,18,12.7,,56.0,57.7,9.4,Yes,Bachelor,No,Yes,47.1,Low
+S1290,Female,16,13.8,,86.7,95.1,5.5,Yes,High School,Yes,No,67.1,Average
+S1960,Male,19,7.9,85.3,40.7,80.8,8.1,Yes,Bachelor,Yes,No,48.2,Low
+S1189,Male,15,14.0,86.0,100.0,81.5,6.2,Yes,Bachelor,No,No,68.2,Average
+S1763,Female,18,13.5,68.0,51.0,72.2,4.4,Yes,Bachelor,Yes,Yes,55.0,Average
+S1112,Female,15,22.6,71.0,77.7,65.8,6.2,Yes,High School,No,No,67.6,Average
+S1949,Male,16,10.3,100.0,57.3,43.9,7.1,Yes,Bachelor,No,No,48.7,Low
+S1183,Female,17,,81.2,66.1,67.9,9.0,Yes,Bachelor,No,Yes,60.1,Average
+S1152,Female,17,8.1,91.3,43.3,61.8,7.8,Yes,High School,No,No,45.8,Low
+S1824,Female,18,14.0,80.7,85.2,19.0,7.0,Yes,High School,No,Yes,54.4,Average
+S1325,Male,15,11.6,96.4,54.6,59.4,7.4,Yes,High School,Yes,Yes,44.8,Low
+S1703,Male,15,13.5,90.3,69.3,28.9,6.3,Yes,Bachelor,No,No,58.5,Average
+S1044,Male,18,22.7,100.0,56.7,79.6,5.5,Yes,Bachelor,No,No,65.2,Average
+S1444,Female,15,27.4,100.0,31.7,72.6,8.5,Yes,Master,Yes,Yes,77.6,High
+S1787,Female,15,20.6,94.9,58.6,100.0,6.0,Yes,PhD,Yes,No,73.5,High
+S1006,Male,19,17.7,100.0,53.2,100.0,,Yes,Bachelor,Yes,No,66.5,Average
+S1250,Male,16,1.0,80.8,,83.6,8.4,Yes,Master,No,No,60.0,Average
+S1823,Female,19,4.0,99.8,54.8,43.9,8.4,Yes,Bachelor,No,No,41.2,Low
+S1075,Male,15,18.2,100.0,48.7,74.4,7.5,Yes,High School,Yes,No,66.8,Average
+S1512,Female,18,24.2,78.6,,82.0,5.8,Yes,High School,No,No,70.4,High
+S1940,Female,15,14.9,82.2,46.3,57.7,6.0,Yes,Master,No,Yes,59.9,Average
+S1391,Male,17,11.5,96.5,46.7,66.9,6.5,Yes,High School,Yes,No,53.2,Average
+S1895,Female,19,22.5,72.6,44.2,87.0,5.8,Yes,Bachelor,Yes,No,57.8,Average
+S1432,Female,15,5.5,89.1,54.6,52.2,8.4,Yes,PhD,No,No,47.8,Low
+S1068,Male,16,14.0,90.8,69.3,77.9,5.2,Yes,High School,Yes,Yes,52.6,Average
+S1167,Male,16,13.0,72.4,54.1,56.0,6.4,Yes,,No,No,39.0,Low
+S1904,Male,16,10.6,73.9,46.6,78.2,9.9,No,High School,No,Yes,53.8,Average
+S1730,Female,18,28.2,83.7,59.5,73.3,6.5,No,High School,Yes,Yes,73.8,High
+S1554,Female,17,1.0,,62.6,80.7,7.8,Yes,Bachelor,No,No,55.9,Average
+S1366,Male,16,15.6,81.6,56.0,93.4,9.0,Yes,High School,Yes,No,65.0,Average
+S1345,Male,19,,98.4,59.4,75.8,7.6,Yes,Bachelor,No,Yes,61.6,Average
+S1584,Male,18,9.7,80.7,44.2,62.8,6.8,Yes,Bachelor,Yes,No,48.9,Low
+S1535,Male,15,22.0,94.1,71.5,51.5,5.7,Yes,High School,No,No,72.9,High
+S1398,Male,15,16.3,99.8,42.8,92.4,9.4,Yes,Bachelor,No,Yes,75.1,High
+S1185,Male,16,15.6,71.8,68.3,81.8,7.1,Yes,Bachelor,No,Yes,65.6,Average
+S1348,Male,18,25.0,86.4,74.9,74.1,,Yes,Bachelor,No,No,77.4,High
+S1615,Female,15,17.3,81.0,63.2,77.7,8.8,,High School,No,Yes,64.1,Average
+S1919,Female,17,7.6,88.1,47.3,79.1,7.4,Yes,Bachelor,Yes,No,43.4,Low
+S1211,Female,18,16.2,,71.4,37.2,4.9,No,High School,Yes,Yes,52.4,Average
+S1579,Male,18,3.3,78.3,86.1,26.5,9.1,Yes,High School,Yes,No,47.0,Low
+S1502,Female,16,3.4,82.2,76.0,60.3,8.1,Yes,Bachelor,Yes,Yes,46.1,Low
+S1537,Male,15,12.7,,64.4,62.4,7.1,No,High School,Yes,Yes,51.1,Average
+S1196,Male,18,5.0,89.6,72.1,50.8,7.2,Yes,Master,No,No,46.7,Low
+S1175,Male,16,2.0,100.0,58.6,80.1,6.4,Yes,Master,Yes,No,50.4,Average
