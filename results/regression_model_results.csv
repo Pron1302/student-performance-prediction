@@ -1,0 +1,7 @@
+Model,CV_R2,Test_R2,Test_MAE,Test_RMSE
+Linear Regression,0.74,0.829,3.79,4.76
+Ridge (tuned),0.74,0.829,3.79,4.76
+Gradient Boosting (tuned),0.684,0.794,4.04,5.23
+Gradient Boosting,0.673,0.763,4.41,5.61
+Random Forest,0.664,0.739,4.78,5.89
+Decision Tree,0.457,0.521,6.35,7.97

@@ -1,0 +1,14 @@
+{
+  "regression": {
+    "model": "Linear Regression",
+    "R2": 0.829,
+    "MAE": 3.79,
+    "RMSE": 4.76
+  },
+  "classification": {
+    "model": "Random Forest",
+    "accuracy": 0.77
+  },
+  "train_rows": 800,
+  "test_rows": 200
+}
